@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 - 💻 Desenvolvedor apaixonado por **Python** e automação  
-- 🔧 Criador do [Sistema de Diagnóstico de PC](https://github.com/SavioCodes/seu-repo)  
+- 🔧 Criador do [Sistema de Diagnóstico de PC]([https://github.com/SavioCodes/seu-repo](https://github.com/SavioCodes?tab=repositories))  
 - 🌱 Atualmente aprendendo **IA, DevOps e Segurança da Informação**  
 - 🎯 Objetivo: contribuir com projetos **open source** e compartilhar conhecimento  
 
