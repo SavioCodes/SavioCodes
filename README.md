@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Olá, eu sou o SavioCodes  
 
-<!--
-**SavioCodes/SavioCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/SavioCodes?label=Seguidores&style=social)](https://github.com/SavioCodes)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seu-usuario)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 💻 Desenvolvedor apaixonado por **Python** e automação  
+- 🔧 Criador do [Sistema de Diagnóstico de PC](https://github.com/SavioCodes/seu-repo)  
+- 🌱 Atualmente aprendendo **IA, DevOps e Segurança da Informação**  
+- 🎯 Objetivo: contribuir com projetos **open source** e compartilhar conhecimento  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, JavaScript, SQL  
+- **Frameworks/Bibliotecas:** Flask, FastAPI, Tkinter, Matplotlib, Pandas  
+- **Ferramentas:** Git, Docker, VS Code, Linux/Windows  
+- **Áreas de Interesse:** Machine Learning, Automação, Monitoramento de Sistemas  
+
+---
+
+## 📊 Estatísticas do GitHub
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=SavioCodes&show_icons=true&theme=radical)  
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCodes&layout=compact&theme=radical)  
+
+---
+
+## 🌍 English Version
+
+### 🚀 About Me
+- 💻 Developer passionate about **Python** and automation  
+- 🔧 Creator of the [PC Diagnostic System](https://github.com/SavioCodes/seu-repo)  
+- 🌱 Currently learning **AI, DevOps and Cybersecurity**  
+- 🎯 Goal: contribute to **open source** projects and share knowledge  
+
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, SQL  
+- **Frameworks/Libraries:** Flask, FastAPI, Tkinter, Matplotlib, Pandas  
+- **Tools:** Git, Docker, VS Code, Linux/Windows  
+- **Areas of Interest:** Machine Learning, Automation, System Monitoring  
+
+---
+
+✨ Sempre aberto a colaborações e novas ideias!
