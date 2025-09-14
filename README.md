@@ -22,8 +22,7 @@
 ---
 
 ## 📂 Projetos em Destaque
-- [🔧 Sistema de Diagnóstico de PC](https://github.com/SavioCodes/Consultor-de-hadware) – Diagnóstico completo de hardware com interface gráfica em Python  
-- *(adicione aqui outros projetos que quiser destacar)*  
+- [🔧 Sistema de Diagnóstico de PC](https://github.com/SavioCodes/Consultor-de-hadware) – Diagnóstico completo de hardware com interface gráfica em Python    
 
 ---
 
