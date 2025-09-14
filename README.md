@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o SavioCodes  
 
 [![GitHub followers](https://img.shields.io/github/followers/SavioCodes?label=Seguidores&style=social)](https://github.com/SavioCodes)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seu-usuario)  
 
 ---
 
