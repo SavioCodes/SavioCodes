@@ -102,9 +102,14 @@ desenvolvedor.diga_oi()
 `psutil` • `GPUtil` • `py-cpuinfo` • `matplotlib` • `tkinter` • `wmi` • `rich`
 
 ### 🚧 Projetos em Desenvolvimento
-- 🤖 **Bot de Trading Automatizado** - IA para análise de mercado
-- 🔒 **Sistema de Monitoramento de Segurança** - Detecção de anomalias
-- 📱 **App de Produtividade** - Gestão de tarefas com IA
+- 📊 **Dashboard de Análise de Dados** - Visualizações interativas com Python/Streamlit
+- 🔐 **Gerador de Senhas Seguras** - Ferramenta com interface gráfica e critérios personalizáveis
+- 📁 **Organizador de Arquivos Inteligente** - Automação para organizar downloads por tipo/data
+- 🌤️ **App de Previsão do Tempo** - Interface moderna com mapas e alertas meteorológicos
+- 📝 **Sistema de Notas com Tags** - Aplicação desktop para organização de anotações
+- 📈 **Calculadora Financeira** - Simulador de investimentos e empréstimos
+- 🎮 **Jogo da Velha IA** - Versão clássica com opponent inteligente
+- 📊 **Monitor de Sistema** - Versão simplificada do diagnóstico de PC
 
 ---
 
@@ -131,6 +136,7 @@ desenvolvedor.diga_oi()
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SavioCodes)
+
 
 </div>
 
