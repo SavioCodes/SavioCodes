@@ -79,16 +79,27 @@ desenvolvedor.diga_oi()
 
 ## 🏆 Projetos em Destaque
 
-### 🔧 [Sistema de Diagnóstico de PC](https://github.com/SavioCodes/Consultor-de-hadware)
-**Ferramenta completa para diagnóstico de hardware**
-- 🖥️ Interface gráfica moderna em Python (Tkinter)
-- 📊 Análise detalhada de componentes do sistema
-- 🛠️ Relatórios automáticos de performance
-- ⚡ Otimização e limpeza do sistema
+### 🔧 [Sistema de Diagnóstico de PC Profissional v1.0](https://github.com/SavioCodes/Consultor-de-hadware)
+**Sistema completo de diagnóstico e monitoramento de hardware para Windows 10/11**
 
-```
-🌟 Stars: Em crescimento | 🍴 Forks: Ativo | 📝 Linguagem: Python
-```
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Ativo-00D9FF?style=flat-square)
+
+</div>
+
+**🌟 Características Principais:**
+- 📊 **Diagnóstico Completo**: CPU, GPU, RAM, Armazenamento, Placa-mãe, Rede
+- ⏱️ **Monitoramento Real-time**: Até 30 minutos de análise contínua com gráficos
+- 🚨 **Sistema de Alertas**: Detecção automática de problemas críticos
+- 📋 **Relatórios Profissionais**: Formatos TXT, HTML e CSV para documentação
+- 💡 **Recomendações IA**: Sugestões inteligentes de melhoria e manutenção
+- 🔧 **Interface Moderna**: 4 abas organizadas (Hardware, Monitoramento, Relatórios, Alertas)
+
+**🎯 Tecnologias Utilizadas:**
+`psutil` • `GPUtil` • `py-cpuinfo` • `matplotlib` • `tkinter` • `wmi` • `rich`
 
 ### 🚧 Projetos em Desenvolvimento
 - 🤖 **Bot de Trading Automatizado** - IA para análise de mercado
@@ -120,7 +131,6 @@ desenvolvedor.diga_oi()
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SavioCodes)
-
 
 </div>
 
