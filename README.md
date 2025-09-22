@@ -77,7 +77,7 @@ desenvolvedor.digaOi();
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows 10 Pro](https://img.shields.io/badge/Windows%2010%20Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -100,12 +100,12 @@ desenvolvedor.digaOi();
 ## 🏆 Projetos em Destaque
 
 ### 🔧 [Sistema de Diagnóstico de PC Profissional v1.0](https://github.com/SavioCodes/Consultor-de-hadware)
-Sistema completo de diagnóstico e monitoramento de hardware para Windows 10/11 com interface moderna em Python
+Sistema completo de diagnóstico e monitoramento de hardware para Windows com interface moderna em Python
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=python&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows%2010%20Pro-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Ativo-00D9FF?style=flat-square)
 
 </div>
@@ -153,7 +153,7 @@ Aplicação Python que automatiza a organização de downloads e pastas por tipo
 - **Git** para controle de versão
 - **Docker** para containerização
 - **Webpack/Vite** para bundling e build
-- **Linux** como ambiente de desenvolvimento
+- **Windows 10 Pro** como ambiente de desenvolvimento
 
 ## 📊 Estatísticas & Atividade
 
@@ -190,11 +190,11 @@ Aplicação Python que automatiza a organização de downloads e pastas por tipo
 ### 🛠️ Tech Stack
 - **Frontend:** ⚛️ React · 📘 TypeScript · ⚡ JavaScript · 🎨 Bootstrap · 🌐 HTML/CSS
 - **Backend:** 🐍 Python · 🚀 Flask/FastAPI · 🟢 Node.js · 🗄️ SQL
-- **Tools:** Git · Docker · VS Code · Linux · Webpack · Vite
+- **Tools:** Git · Docker · VS Code · Windows 10 Pro · Webpack · Vite
 - **Focus Areas:** 🌐 Full Stack Development · 🤖 Machine Learning · 🔐 Cybersecurity · ⚙️ Automation
 
 ### 🏆 Featured Projects
-- **[PC Diagnostic System](https://github.com/SavioCodes/Consultor-de-hadware)** – Complete hardware diagnostic tool with modern Python GUI
+- **[PC Diagnostic System](https://github.com/SavioCodes/Consultor-de-hadware)** – Complete hardware diagnostic tool with modern Python GUI for Windows
 - **[Smart File Organizer](https://github.com/SavioCodes/OrganizadorArquivosInteligente)** – Intelligent automation for organizing downloads by type and date
 - **🚧 React Dashboard** – Modern control panel with TypeScript and Bootstrap
 - **🚧 Full Stack E-commerce** – Complete online store with React frontend and Python backend
