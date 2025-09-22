@@ -61,11 +61,12 @@ desenvolvedor.diga_oi()
 
 <div align="center">
 
-| 🤖 **Machine Learning** | 🔐 **Cybersecurity** | ⚙️ **Automação** | 📊 **Data Science** |
-|:------------------------:|:---------------------:|:-----------------:|:--------------------:|
-| Análise Preditiva | Análise de Vulnerabilidades | Scripts Python | Visualização de Dados |
-| Processamento de Dados | Testes de Penetração | Automação de Tarefas | Business Intelligence |
-| Algoritmos de IA | Segurança de Sistemas | DevOps | Analytics |
+| 🤖 **Machine Learning** |   ⚙️ **Automação**   |  📊 **Data Science**  |
+| :---------------------: | :------------------: | :-------------------: |
+|    Análise Preditiva    |    Scripts Python    | Visualização de Dados |
+|  Processamento de Dados | Automação de Tarefas | Business Intelligence |
+|     Algoritmos de IA    |        DevOps        |       Analytics       |
+
 
 </div>
 
