@@ -93,9 +93,21 @@ desenvolvedor.diga_oi()
 **🎯 Tecnologias Utilizadas:**
 `psutil` • `GPUtil` • `py-cpuinfo` • `matplotlib` • `tkinter` • `wmi` • `rich`
 
+### 📁 [Organizador de Arquivos Inteligente](https://github.com/SavioCodes/OrganizadorArquivosInteligente)
+**Automação inteligente para organizar downloads por tipo e data**
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Ativo-00D9FF?style=flat-square)
+
+</div>
+
+**🎯 Funcionalidades:**
+Organização automática • Detecção de tipos de arquivo • Interface moderna • Configurações personalizáveis
+
 ### 🚧 Projetos em Desenvolvimento
 - 📊 **Dashboard de Análise de Dados** - Visualizações interativas com Python/Streamlit
-- 📁 **Organizador de Arquivos Inteligente** - Automação para organizar downloads por tipo/data
 
 ---
 
@@ -144,6 +156,7 @@ Passionate developer specialized in **Python** and **system automation**. With e
 
 ### 🏆 Featured Projects
 - **[PC Diagnostic System](https://github.com/SavioCodes/Consultor-de-hadware)** – Complete hardware diagnostic tool with modern Python GUI
+- **[Smart File Organizer](https://github.com/SavioCodes/OrganizadorArquivosInteligente)** – Intelligent automation for organizing downloads by type and date
 
 </details>
 
