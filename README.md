@@ -158,17 +158,39 @@ Aplicação Python que automatiza a organização de downloads e pastas por tipo
 ## 📊 Estatísticas & Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SavioCodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" height="180"/>
+
+### 🔥 GitHub Analytics
+<img src="https://github-readme-stats.vercel.app/api?username=SavioCodes&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&custom_title=Estatísticas%20GitHub" alt="Estatísticas do GitHub" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCodes&layout=compact&theme=react&hide_border=true&langs_count=10&card_width=400&custom_title=Linguagens%20Mais%20Utilizadas" alt="Linguagens mais usadas" height="195"/>
+
+### 📈 Contribuições & Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SavioCodes&theme=react&hide_border=true&stroke=0891b2&ring=0891b2&fire=ff6b35&currStreakLabel=0891b2" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SavioCodes&custom_title=Gráfico%20de%20Contribuições&theme=react-dark&hide_border=true&area=true&point=0891b2" alt="Gráfico de Atividade" width="48%"/>
+
+### 🏆 Conquistas & Troféus
+<img src="https://github-profile-trophy.vercel.app/?username=SavioCodes&theme=onestar&no-frame=true&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="Troféus GitHub"/>
+
+### 🎯 Métricas Detalhadas
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+
+![Total Commits](https://img.shields.io/badge/Total%20Commits-500+-00D9FF?style=for-the-badge&logo=git&logoColor=white)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-25+-0891b2?style=for-the-badge&logo=github&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-8+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Years Coding](https://img.shields.io/badge/Years%20Coding-3+-FF6B35?style=for-the-badge&logo=code&logoColor=white)
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SavioCodes&theme=tokyo-night&hide_border=true" alt="Gráfico de Atividade" width="100%"/>
-</div>
+### 📊 WakaTime Stats (Coding Activity)
+<!--START_SECTION:waka-->
+```text
+TypeScript   8 hrs 15 mins   ████████████░░░░░   45.2%
+Python       6 hrs 32 mins   ████████████░░░░░   35.8%
+JavaScript   2 hrs 18 mins   ██████░░░░░░░░░░░   12.6%
+CSS          45 mins         ██░░░░░░░░░░░░░░░    4.1%
+HTML         25 mins         █░░░░░░░░░░░░░░░░    2.3%
+```
+<!--END_SECTION:waka-->
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SavioCodes&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=SavioCodes&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Troféus GitHub" height="180"/>
 </div>
 
 ## 🌍 Let's Connect | Vamos nos Conectar
