@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## 🚀 Sobre Mim
 
 Desenvolvedor apaixonado por tecnologia, especializado em **Python** e **automação de sistemas**. Com experiência em desenvolvimento de soluções inovadoras, busco constantemente aprender novas tecnologias e contribuir para a comunidade open source.
@@ -31,8 +29,6 @@ class SavioCodes:
 desenvolvedor = SavioCodes()
 desenvolvedor.diga_oi()
 ```
-
----
 
 ## 🛠️ Arsenal Tecnológico
 
@@ -61,8 +57,6 @@ desenvolvedor.diga_oi()
 
 </div>
 
----
-
 ## 🎯 Áreas de Especialização
 
 <div align="center">
@@ -75,12 +69,10 @@ desenvolvedor.diga_oi()
 
 </div>
 
----
-
 ## 🏆 Projetos em Destaque
 
 ### 🔧 [Sistema de Diagnóstico de PC Profissional v1.0](https://github.com/SavioCodes/Consultor-de-hadware)
-**Sistema completo de diagnóstico e monitoramento de hardware para Windows 10/11**
+Sistema completo de diagnóstico e monitoramento de hardware para Windows 10/11
 
 <div align="center">
 
@@ -95,34 +87,23 @@ desenvolvedor.diga_oi()
 
 ### 📁 [Organizador de Arquivos Inteligente](https://github.com/SavioCodes/OrganizadorArquivosInteligente)
 
-**Automatiza a organização de downloads e pastas por tipo, data e conteúdo.**
+Automatiza a organização de downloads e pastas por tipo, data e conteúdo.
 
 <div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Ativo-00D9FF?style=flat-square)
+
 </div>
 
 **🎯 Funcionalidades principais:**
-
-* Organização automática por tipo e data
-* Detecção de duplicatas
-* Interface moderna e intuitiva
-* Configuração flexível via JSON
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Ativo-00D9FF?style=flat-square)
-
-</div>
-
-**🎯 Funcionalidades:**
-Organização automática • Detecção de tipos de arquivo • Interface moderna • Configurações personalizáveis
+- Organização automática por tipo e data
+- Detecção de duplicatas
+- Interface moderna e intuitiva
+- Configuração flexível via JSON
 
 ### 🚧 Projetos em Desenvolvimento
 - 📊 **Dashboard de Análise de Dados** - Visualizações interativas com Python/Streamlit
-
----
 
 ## 📊 Estatísticas & Atividade
 
@@ -140,18 +121,13 @@ Organização automática • Detecção de tipos de arquivo • Interface moder
   <img src="https://github-profile-trophy.vercel.app/?username=SavioCodes&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Troféus GitHub" height="180"/>
 </div>
 
----
-
 ## 🌍 Let's Connect | Vamos nos Conectar
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SavioCodes)
 
-
 </div>
-
----
 
 ## 🌍 English Version
 
@@ -173,16 +149,12 @@ Passionate developer specialized in **Python** and **system automation**. With e
 
 </details>
 
----
-
 <div align="center">
 
 ### 💭 Filosofia de Código
 *"O melhor código é aquele que resolve problemas reais e inspira outros desenvolvedores a criar soluções ainda melhores."*
 
 **✨ Sempre aberto a colaborações, ideias inovadoras e novos desafios! 🚀**
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer"/>
 
