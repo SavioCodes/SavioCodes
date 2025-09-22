@@ -94,7 +94,20 @@ desenvolvedor.diga_oi()
 `psutil` • `GPUtil` • `py-cpuinfo` • `matplotlib` • `tkinter` • `wmi` • `rich`
 
 ### 📁 [Organizador de Arquivos Inteligente](https://github.com/SavioCodes/OrganizadorArquivosInteligente)
-**Automação inteligente para organizar downloads por tipo e data**
+
+**Automatiza a organização de downloads e pastas por tipo, data e conteúdo.**
+
+<div align="center">
+![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Ativo-00D9FF?style=flat-square)
+</div>
+
+**🎯 Funcionalidades principais:**
+
+* Organização automática por tipo e data
+* Detecção de duplicatas
+* Interface moderna e intuitiva
+* Configuração flexível via JSON
 
 <div align="center">
 
