@@ -90,26 +90,12 @@ desenvolvedor.diga_oi()
 
 </div>
 
-**🌟 Características Principais:**
-- 📊 **Diagnóstico Completo**: CPU, GPU, RAM, Armazenamento, Placa-mãe, Rede
-- ⏱️ **Monitoramento Real-time**: Até 30 minutos de análise contínua com gráficos
-- 🚨 **Sistema de Alertas**: Detecção automática de problemas críticos
-- 📋 **Relatórios Profissionais**: Formatos TXT, HTML e CSV para documentação
-- 💡 **Recomendações IA**: Sugestões inteligentes de melhoria e manutenção
-- 🔧 **Interface Moderna**: 4 abas organizadas (Hardware, Monitoramento, Relatórios, Alertas)
-
 **🎯 Tecnologias Utilizadas:**
 `psutil` • `GPUtil` • `py-cpuinfo` • `matplotlib` • `tkinter` • `wmi` • `rich`
 
 ### 🚧 Projetos em Desenvolvimento
 - 📊 **Dashboard de Análise de Dados** - Visualizações interativas com Python/Streamlit
-- 🔐 **Gerador de Senhas Seguras** - Ferramenta com interface gráfica e critérios personalizáveis
 - 📁 **Organizador de Arquivos Inteligente** - Automação para organizar downloads por tipo/data
-- 🌤️ **App de Previsão do Tempo** - Interface moderna com mapas e alertas meteorológicos
-- 📝 **Sistema de Notas com Tags** - Aplicação desktop para organização de anotações
-- 📈 **Calculadora Financeira** - Simulador de investimentos e empréstimos
-- 🎮 **Jogo da Velha IA** - Versão clássica com opponent inteligente
-- 📊 **Monitor de Sistema** - Versão simplificada do diagnóstico de PC
 
 ---
 
