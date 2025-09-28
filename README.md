@@ -129,6 +129,16 @@ Aplicação Python que automatiza a organização de downloads e pastas por tipo
 - Interface moderna e intuitiva
 - Configuração flexível via JSON
 
+### 🤖 [Rede Neural do Zero](https://github.com/SavioCodes/rede-neural-do-zero)
+Implementação completa de uma **rede neural artificial** em Python, totalmente do zero, sem usar frameworks como TensorFlow ou PyTorch. Ideal para estudo de deep learning e compreensão de forward/backpropagation, funções de ativação e otimização de pesos.
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Ativo-00D9FF?style=flat-square)
+
+</div>
+
 ### 🚧 Projetos em Desenvolvimento
 - 🌐 **Dashboard React + TypeScript** - Painel de controle moderno com hooks e context API
 - 📊 **Aplicação Full Stack** - Frontend React com backend Flask/FastAPI
@@ -194,10 +204,7 @@ Aplicação Python que automatiza a organização de downloads e pastas por tipo
 - **Focus Areas:** 🌐 Full Stack Development · 🤖 Machine Learning · 🔐 Cybersecurity · ⚙️ Automation
 
 ### 🏆 Featured Projects
-- **[PC Diagnostic System](https://github.com/SavioCodes/Consultor-de-hadware)** – Complete hardware diagnostic tool with modern Python GUI for Windows
-- **[Smart File Organizer](https://github.com/SavioCodes/OrganizadorArquivosInteligente)** – Intelligent automation for organizing downloads by type and date
-- **🚧 React Dashboard** – Modern control panel with TypeScript and Bootstrap
-- **🚧 Full Stack E-commerce** – Complete online store with React frontend and Python backend
+- ** Plataforma SaaS Completa (Java, C# ou Node+React)
 
 ### 💡 Development Approach
 - **Frontend-first** thinking with React and TypeScript
