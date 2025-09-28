@@ -204,7 +204,10 @@ Implementação completa de uma **rede neural artificial** em Python, totalmente
 - **Focus Areas:** 🌐 Full Stack Development · 🤖 Machine Learning · 🔐 Cybersecurity · ⚙️ Automation
 
 ### 🏆 Featured Projects
-- ** Plataforma SaaS Completa (Java, C# ou Node+React)
+- **[PC Diagnostic System](https://github.com/SavioCodes/Consultor-de-hadware)** – Complete hardware diagnostic tool with modern Python GUI for Windows
+- **[Smart File Organizer](https://github.com/SavioCodes/OrganizadorArquivosInteligente)** – Intelligent automation for organizing downloads by type and date
+- **🚧 React Dashboard** – Modern control panel with TypeScript and Bootstrap
+- **🚧 Full Stack E-commerce** – Complete online store with React frontend and Python backend
 
 ### 💡 Development Approach
 - **Frontend-first** thinking with React and TypeScript
