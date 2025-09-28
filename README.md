@@ -129,15 +129,19 @@ Aplicação Python que automatiza a organização de downloads e pastas por tipo
 - Interface moderna e intuitiva
 - Configuração flexível via JSON
 
-### 🤖 [Rede Neural do Zero](https://github.com/SavioCodes/rede-neural-do-zero)
-Implementação completa de uma **rede neural artificial** em Python, totalmente do zero, sem usar frameworks como TensorFlow ou PyTorch. Ideal para estudo de deep learning e compreensão de forward/backpropagation, funções de ativação e otimização de pesos.
+### 🧱 [Blockchain do Zero](https://github.com/SavioCodes/blockchain-do-zero)
+Projeto educativo de **blockchain** em Python com API REST e interface CLI. Desenvolvido para ensinar os fundamentos de blockchain, proof of work, transações e mineração.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-2.3+-green.svg)
 ![Status](https://img.shields.io/badge/Status-Ativo-00D9FF?style=flat-square)
 
 </div>
+
+**🎯 Tecnologias Utilizadas:**
+`Python` • `Flask` • `pytest` • `Proof of Work` • `API REST` • `CLI`
 
 ### 🚧 Projetos em Desenvolvimento
 - 🌐 **Plataforma SaaS Completa (Java, C# ou Node+React)**
@@ -204,7 +208,7 @@ Implementação completa de uma **rede neural artificial** em Python, totalmente
 ### 🏆 Featured Projects
 - **[PC Diagnostic System](https://github.com/SavioCodes/Consultor-de-hadware)** – Complete hardware diagnostic tool with modern Python GUI for Windows
 - **[Smart File Organizer](https://github.com/SavioCodes/OrganizadorArquivosInteligente)** – Intelligent automation for organizing downloads by type and date
-- **[Neural Network from Scratch](https://github.com/SavioCodes/rede-neural-do-zero)** – Complete artificial neural network implementation in pure Python
+- **[Blockchain from Scratch](https://github.com/SavioCodes/blockchain-do-zero)** – Educational blockchain implementation in Python with REST API and CLI interface
 - **🚧 Full Stack SaaS Platform** – Enterprise-level platform with Java, C# or Node+React
 
 ### 💡 Development Approach
