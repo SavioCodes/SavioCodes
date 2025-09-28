@@ -144,28 +144,36 @@ Projeto educativo de **blockchain** em Python com API REST e interface CLI. Dese
 `Python` • `Flask` • `pytest` • `Proof of Work` • `API REST` • `CLI`
 
 ### 🚧 Projetos em Desenvolvimento
-- 🌐 **Plataforma SaaS Completa (Java, C# ou Node+React)**
+- 🌐 **Plataforma SaaS Completa** - Solução empresarial com Java, C# ou Node+React
 - 🤖 **Rede Neural do Zero** - Implementação completa de neural network em Python puro
 
 ## 💡 Stack de Desenvolvimento
 
 ### Frontend Development
-- **React** com **TypeScript** para tipagem estática
-- **Bootstrap** para design responsivo e componentes
-- **CSS3** avançado com Flexbox e Grid
+- **React** com **TypeScript** para tipagem estática e componentes robustos
+- **Bootstrap** e **Tailwind CSS** para design responsivo e moderno
+- **CSS3** avançado com Flexbox, Grid e animações
 - **JavaScript ES6+** para funcionalidades modernas
-- Gerenciamento de estado com React Hooks
+- Gerenciamento de estado com React Hooks e Context API
 
 ### Backend Development  
-- **Python** com Flask/FastAPI para APIs robustas
-- **Node.js** para aplicações JavaScript server-side
+- **Python** com Flask/FastAPI para APIs robustas e escaláveis
+- **Node.js** com Express para aplicações JavaScript server-side
 - Integração com bancos de dados SQL/NoSQL
 - Autenticação JWT e middlewares customizados
+- Arquitetura RESTful e microserviços
+
+### Data Science & AI
+- **Machine Learning** com bibliotecas Python (Pandas, NumPy, Matplotlib)
+- **Análise de dados** e visualização
+- Implementação de algoritmos de IA do zero
+- **Blockchain** e criptografia
 
 ### DevOps & Tools
-- **Git** para controle de versão
-- **Docker** para containerização
-- **Webpack/Vite** para bundling e build
+- **Git** para controle de versão e colaboração
+- **Docker** para containerização e deploy
+- **Webpack/Vite** para bundling e otimização
+- **CI/CD pipelines** para automação
 - **Windows 10 Pro** como ambiente de desenvolvimento
 
 ## 📊 Estatísticas & Atividade
@@ -184,11 +192,13 @@ Projeto educativo de **blockchain** em Python com API REST e interface CLI. Dese
   <img src="https://github-profile-trophy.vercel.app/?username=SavioCodes&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Troféus GitHub" height="180"/>
 </div>
 
-## 🌍 Let's Connect | Vamos nos Conectar
+## 🌍 Conecte-se Comigo
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SavioCodes)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 </div>
 
@@ -211,13 +221,15 @@ Projeto educativo de **blockchain** em Python com API REST e interface CLI. Dese
 - **[Smart File Organizer](https://github.com/SavioCodes/OrganizadorArquivosInteligente)** – Intelligent automation for organizing downloads by type and date
 - **[Blockchain from Scratch](https://github.com/SavioCodes/blockchain-do-zero)** – Educational blockchain implementation in Python with REST API and CLI interface
 - **🚧 Full Stack SaaS Platform** – Enterprise-level platform with Java, C# or Node+React
+- **🚧 Neural Network from Scratch** – Complete neural network implementation in pure Python
 
 ### 💡 Development Approach
 - **Frontend-first** thinking with React and TypeScript
-- **Component-driven** development for reusability
-- **Responsive design** with Bootstrap and modern CSS
+- **Component-driven** development for reusability and maintainability
+- **Responsive design** with Bootstrap and modern CSS frameworks
 - **Clean code** principles and best practices
 - **Test-driven** development when possible
+- **API-first** backend development with proper documentation
 
 </details>
 
@@ -225,6 +237,12 @@ Projeto educativo de **blockchain** em Python com API REST e interface CLI. Dese
 
 ### 💭 Filosofia de Código
 *"O melhor código é aquele que resolve problemas reais, é maintível e escalável, inspirando outros desenvolvedores a criar soluções ainda melhores."*
+
+### 🎯 Objetivos 2025
+- 🚀 Contribuir mais para projetos open source
+- 📚 Aprofundar conhecimentos em Machine Learning e IA
+- 🌐 Desenvolver aplicações full stack mais robustas
+- 🤝 Colaborar com a comunidade de desenvolvedores
 
 **✨ Sempre aberto a colaborações, ideias inovadoras e novos desafios em Full Stack Development! 🚀**
 
