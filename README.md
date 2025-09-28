@@ -145,6 +145,7 @@ Projeto educativo de **blockchain** em Python com API REST e interface CLI. Dese
 
 ### 🚧 Projetos em Desenvolvimento
 - 🌐 **Plataforma SaaS Completa (Java, C# ou Node+React)**
+- 🤖 **Rede Neural do Zero** - Implementação completa de neural network em Python puro
 
 ## 💡 Stack de Desenvolvimento
 
