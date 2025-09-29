@@ -143,9 +143,26 @@ Projeto educativo de **blockchain** em Python com API REST e interface CLI. Dese
 **🎯 Tecnologias Utilizadas:**
 `Python` • `Flask` • `pytest` • `Proof of Work` • `API REST` • `CLI`
 
+### 🤖 [Rede Neural do Zero](https://github.com/SavioCodes/rede-neural-do-zero)
+Implementação completa de uma **rede neural artificial** em Python puro, sem frameworks como TensorFlow ou PyTorch. Projeto educacional para compreender os fundamentos do deep learning.
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Ativo-00D9FF?style=flat-square)
+
+</div>
+
+**🎯 Funcionalidades:**
+- Forward propagation e backpropagation completos
+- Funções de ativação: Sigmoid, ReLU, Tanh
+- Inicialização inteligente de pesos (Xavier/He)
+- Exemplo XOR funcional com 97.5% de acurácia
+- Suporte a datasets personalizados
+
 ### 🚧 Projetos em Desenvolvimento
 - 🌐 **Plataforma SaaS Completa** - Solução empresarial com Java, C# ou Node+React
-- 🤖 **Rede Neural do Zero** - Implementação completa de neural network em Python puro
 
 ## 💡 Stack de Desenvolvimento
 
@@ -197,8 +214,6 @@ Projeto educativo de **blockchain** em Python com API REST e interface CLI. Dese
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SavioCodes)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 </div>
 
@@ -220,8 +235,8 @@ Projeto educativo de **blockchain** em Python com API REST e interface CLI. Dese
 - **[PC Diagnostic System](https://github.com/SavioCodes/Consultor-de-hadware)** – Complete hardware diagnostic tool with modern Python GUI for Windows
 - **[Smart File Organizer](https://github.com/SavioCodes/OrganizadorArquivosInteligente)** – Intelligent automation for organizing downloads by type and date
 - **[Blockchain from Scratch](https://github.com/SavioCodes/blockchain-do-zero)** – Educational blockchain implementation in Python with REST API and CLI interface
+- **[Neural Network from Scratch](https://github.com/SavioCodes/rede-neural-do-zero)** – Complete artificial neural network implementation in pure Python without frameworks
 - **🚧 Full Stack SaaS Platform** – Enterprise-level platform with Java, C# or Node+React
-- **🚧 Neural Network from Scratch** – Complete neural network implementation in pure Python
 
 ### 💡 Development Approach
 - **Frontend-first** thinking with React and TypeScript
