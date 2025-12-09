@@ -6,27 +6,18 @@
   ███████║██║  ██║ ╚████╔╝ ██║╚██████╔╝╚██████╗╚██████╔╝██████╔╝███████╗███████║
   ╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
                                                       
-  Welcome to my GitHub Profile V4 - The Robust Edition.
-  Ideally this README is viewed on GitHub with Dark Mode enabled.
+  Welcome to my GitHub Profile V5 - The Bulletproof Edition.
+  Designed for maximum stability and compatibility.
 -->
 
 <!-- NAV BAR -->
 <div align="center">
-<table>
-<tr>
-<td><a href="#-about-me">👨‍💻 About Me</a></td>
-<td>|</td>
-<td><a href="#-tech-stack">🛠️ Tech Stack</a></td>
-<td>|</td>
-<td><a href="#-projects">🏆 Projects</a></td>
-<td>|</td>
-<td><a href="#-timeline">🗺️ Timeline</a></td>
-<td>|</td>
-<td><a href="#-setup">💻 Setup</a></td>
-<td>|</td>
-<td><a href="#-faq">❓ FAQ</a></td>
-</tr>
-</table>
+<a href="#-about-me">👨‍💻 About Me</a> &nbsp;|&nbsp;
+<a href="#-tech-stack">🛠️ Tech Stack</a> &nbsp;|&nbsp;
+<a href="#-projects">🏆 Projects</a> &nbsp;|&nbsp;
+<a href="#-timeline">🗺️ Timeline</a> &nbsp;|&nbsp;
+<a href="#-setup">💻 Setup</a> &nbsp;|&nbsp;
+<a href="#-faq">❓ FAQ</a>
 </div>
 
 <br />
@@ -36,20 +27,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0891b2&height=300&section=header&text=SavioCodes&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Architecting%20Digital%20Realities&descAlignY=60&descSize=25&descColor=cyan" alt="SavioCodes Header" width="100%"/>
 </div>
 
-<!-- TROPHY CASE -->
-<div align="center">
-<br />
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=SavioCodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1" alt="SavioCodes Trophies" />
-</a>
-<br />
-</div>
-
 <!-- TYPING SVG BIO -->
 <div align="center">
 <br />
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Ninja+%F0%9F%A5%B7%E2%80%8D%E2%99%82%EF%B8%8F;Python+Mastermind+%F0%9F%90%8D;React+%2F+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;AI+%26+Automation+Engineer+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+Building+Something+Cool+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Ninja+%F0%9F%A5%B7%E2%80%8D%E2%99%82%EF%B8%8F;Python+Mastermind+%F0%9F%90%8D;React+%2F+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;AI+%26+Automation+Engineer+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+Building+Something+Cool+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 <br />
 </div>
@@ -64,11 +46,11 @@
 <div align="center">
 <table border="0" width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 <h3>👋 Olá, Mundo!</h3>
 <p>
 Meu nome é <strong>Sávio</strong>, mas no mundo digital sou conhecido como <strong>SavioCodes</strong>.
-Sou mais do que apenas um desenvolvedor; sou um <strong>solucionador de problemas</strong> apaixonado por transformar café ☕ em código limpo, escalável e eficiente.
+Sou um <strong>solucionador de problemas</strong> apaixonado por transformar café ☕ em código limpo, escalável e eficiente.
 </p>
 <p>
 Minha jornada começou com a curiosidade de entender como as coisas funcionam "por baixo do capô". Hoje, especializo-me em criar ecossistemas digitais completos, desde o banco de dados até o pixel final na tela do usuário.
@@ -81,21 +63,21 @@ Minha jornada começou com a curiosidade de entender como as coisas funcionam "p
 <br />
 <h3>⚡ O que eu faço?</h3>
 <ul>
-<li>🌐 <strong>Web App Development:</strong> SPAs performáticas com React & Next.js.</li>
-<li>⚙️ <strong>Backend Engineering:</strong> APIs RESTful robustas com Python & Node.</li>
-<li>🤖 <strong>AI Integration:</strong> LLMs, automação de tarefas e Data Science.</li>
-<li>🔒 <strong>System Security:</strong> Práticas de segurança e arquitetura blindada.</li>
+<li>🌐 <strong>Web App Development</strong> (React, Next.js)</li>
+<li>⚙️ <strong>Backend Engineering</strong> (Python, Node.js)</li>
+<li>🤖 <strong>AI Integration</strong> (LLMs, Automation)</li>
+<li>🔒 <strong>System Security</strong> (Cybersecurity)</li>
 </ul>
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 <div align="center">
 <h3>📊 Weekly Power</h3>
 <!-- WakaTime Placeholder (configure se tiver a key) -->
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SavioCodes&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000" alt="WakaTime Stats" />
 <br />
 <br />
-<h3>🧠 Language Core</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCodes&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff&langs_count=5" alt="Top Langs" />
+<h3>🧠 Core Languages</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff&langs_count=6" alt="Top Langs" />
 </div>
 </td>
 </tr>
@@ -110,7 +92,6 @@ Minha jornada começou com a curiosidade de entender como as coisas funcionam "p
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 <table border="0">
 <tr>
 <td align="center" width="150">
@@ -135,7 +116,6 @@ Minha jornada começou com a curiosidade de entender como as coisas funcionam "p
 </td>
 </tr>
 </table>
-
 </div>
 
 <br />
@@ -146,6 +126,7 @@ Minha jornada começou com a curiosidade de entender como as coisas funcionam "p
 ## 🏆 Projetos em Destaque
 
 <div align="center">
+
 <!-- PROJECT 1 -->
 <table border="0" width="100%">
 <tr>
@@ -236,6 +217,7 @@ Implementação "from scratch" de uma Blockchain funcional. Inclui mecanismo de 
 </td>
 </tr>
 </table>
+
 </div>
 
 <br />
@@ -248,37 +230,37 @@ Implementação "from scratch" de uma Blockchain funcional. Inclui mecanismo de 
 <div align="center">
 <code>2020</code> <strong>Início da Jornada</strong>
 <br />
-Comecei explorando lógica de programação com Python e Scripts de automação simples.
+Exploração de lógica de programação com Python e automação.
 <br />
 ⬇
 <br />
 <code>2021</code> <strong>Deep Dive no Web Dev</strong>
 <br />
-Mergulho profundo em HTML, CSS e JavaScript. Criação dos primeiros sites estáticos.
+HTML, CSS, JavaScript e primeiros sites estáticos.
 <br />
 ⬇
 <br />
 <code>2022</code> <strong>O Ano do Full Stack</strong>
 <br />
-Adotei React e Node.js. Comecei a construir aplicações completas com Banco de Dados.
+React, Node.js e construção de aplicações com Banco de Dados.
 <br />
 ⬇
 <br />
 <code>2023</code> <strong>Especialização & Freelancing</strong>
 <br />
-Foco em TypeScript e Arquitetura de Software. Primeiros projetos freelancer entregues.
+TypeScript, Arquitetura de Software e projetos reais.
 <br />
 ⬇
 <br />
 <code>2024</code> <strong>AI & Next Level</strong>
 <br />
-Integração de LLMs em projetos, foco em cybersecurity e performance extrema.
+LLMs, Cybersecurity e performance extrema.
 <br />
 ⬇
 <br />
 <code>2025</code> <strong>O Futuro</strong>
 <br />
-<i>Construindo a próxima geração de soluções SaaS.</i>
+<i>Construindo a próxima geração de SaaS.</i>
 </div>
 
 <br />
@@ -359,15 +341,6 @@ Eventualmente ajudo iniciantes na comunidade. Se tiver uma dúvida específica, 
 </details>
 </td>
 </tr>
-<tr>
-<td>
-<details>
-<summary><strong>MacOS, Linux ou Windows?</strong></summary>
-<br />
-Uso Windows com WSL2 pela versatilidade de rodar jogos e ambiente Linux nativo simultaneamente. Mas amo a estabilidade do Linux em servidores e containers.
-</details>
-</td>
-</tr>
 </table>
 
 <br />
@@ -389,12 +362,6 @@ Uso Windows com WSL2 pela versatilidade de rodar jogos e ambiente Linux nativo s
 <!-- SPOTIFY & MUSIC -->
 <br />
 <div align="center">
-<!-- 
-SETUP SPOTIFY: 
-1. Acesse https://github.com/novatorem/novatorem
-2. Siga o tutorial para obter seu Client ID/Secret e configurar.
-3. Abaixo está o código pronto para quando você tiver configurado.
--->
 <a href="https://spotify.com">
 <img src="https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=0D1117" alt="Spotify Playing" />
 </a>
@@ -413,7 +380,9 @@ SETUP SPOTIFY:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0891b2&height=150&section=footer" width="100%"/>
 <br />
+
 <h2>📫 Contact & Socials</h2>
+
 <a href="https://github.com/SavioCodes">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
 </a>
@@ -426,6 +395,7 @@ SETUP SPOTIFY:
 <a href="https://instagram.com">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
 </a>
+
 <br /><br />
 <p align="center">
 Made with ❤️ and <img src="https://skillicons.dev/icons?i=vscode" width="20"/> by <strong>SavioCodes</strong>.
