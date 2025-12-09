@@ -394,18 +394,7 @@ Hoje, com **3 anos focado em desenvolvimento profissional**, trabalho com:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SavioCodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCodes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SavioCodes&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
+### 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SavioCodes&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
@@ -413,11 +402,32 @@ Hoje, com **3 anos focado em desenvolvimento profissional**, trabalho com:
 
 <br/>
 
-### 🏆 GitHub Trophies
+### 🔥 Quick Stats
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SavioCodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
-</div>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    📊 GITHUB OVERVIEW                        ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   👤 Username:        SavioCodes                             ║
+║   📅 Member Since:    2020                                   ║
+║   🎂 Age:             15 years old                           ║
+║   💻 Experience:      5 years of coding                      ║
+║                                                              ║
+║   🔤 Top Languages:                                          ║
+║      🐍 Python ████████████████████░░░░░░ 65%                ║
+║      🟨 JavaScript ████████████░░░░░░░░░░ 20%                ║
+║      🔷 TypeScript ██████░░░░░░░░░░░░░░░░ 10%                ║
+║      🌐 HTML/CSS ██░░░░░░░░░░░░░░░░░░░░░░ 5%                 ║
+║                                                              ║
+║   🏆 Achievements:                                           ║
+║      ⭐ Multiple projects created                            ║
+║      🔧 Active contributor                                   ║
+║      📚 Continuous learner                                   ║
+║      🚀 Building innovative solutions                        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
