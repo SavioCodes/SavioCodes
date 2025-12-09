@@ -1,124 +1,174 @@
 <!--
-  Hi there! 👋 Thanks for visiting my profile.
-  Ideally this README is viewed on GitHub with Dark Mode enabled.
+  WELCOME TO SAVIOCODES ROFILE V2
+  Ideally viewed in Dark Mode.
 -->
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=SavioCodes&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Innovating%20the%20Future%20with%20Code&descAlignY=60&descSize=25&descColor=cyan" alt="SavioCodes Header" width="100%"/>
+</div>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=250&section=header&text=SavioCodes&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20AI%20Enthusiast&descAlignY=55&descSize=25" alt="SavioCodes Header" width="100%"/>
+<div align="center">
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SavioCodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="SavioCodes Trophies" />
+  </a>
 
   <br />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack+%F0%9F%92%BB;Especialista+em+Python+%F0%9F%90%8D;React+%26+TypeScript+Wizard+%E2%9A%9B%EF%B8%8F;Criador+de+Solu%C3%A7%C3%B5es+Inovadoras+%F0%9F%9A%80;Apaixonado+por+Open+Source+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
-
-  <br />
-
-  <!-- Social Badges -->
-  <a href="https://github.com/SavioCodes">
-    <img src="https://img.shields.io/github/followers/SavioCodes?label=Followers&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/SavioCodes">
-    <img src="https://img.shields.io/github/stars/SavioCodes?style=for-the-badge&color=00D9FF&labelColor=1c1917" alt="GitHub Stars" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SavioCodes&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Python+%7C+React+%7C+TypeScript+%7C+AI;Building+Scalable+Solutions+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9D%A4%EF%B8%8F;Turning+Coffee+into+Code+%E2%98%95)](https://git.io/typing-svg)
 
 </div>
 
 <br />
 
-## 🚀 Sobre Mim
-
-> *"Código limpo é como uma obra de arte! 🎨"*
-
-Olá! Sou o **Sávio**, um desenvolvedor **Full Stack** apaixonado por transformar ideias complexas em soluções digitais elegantes. Com um forte background em **Python**, **React** e **Automação**, busco constantemente empurrar os limites do que é possível na web.
-
-Atualmente, meu foco está em **Arquitetura de Software Scalável** e integração de **Inteligência Artificial** em aplicações do mundo real.
-
-```typescript
-class SavioCodes implements Developer {
-  name       = "Sávio";
-  title      = "Full Stack Developer";
-  passion    = ["Coding", "Innovation", "Open Source"];
+<div align="center">
   
-  stack = {
-    frontend: ["React", "TypeScript", "Next.js", "Tailwind CSS"],
-    backend:  ["Python", "FastAPI", "Node.js", "PostgreSQL"],
-    tools:    ["Docker", "Git", "Linux", "VS Code"]
-  };
+  <table>
+    <tr>
+      <td width="60%" valign="top">
+        <h2>⚡ Sobre Mim</h2>
+        <br />
+        <p>
+          👋 <strong>Olá, sou o Sávio!</strong> Um entusiasta de tecnologia apaixonado por construir o futuro.
+          <br /><br />
+          Sou um <strong>Full Stack Developer</strong> focado em criar experiências digitais imersivas e performáticas. 
+          Minha jornada vai desde a automação de processos complexos com <strong>Python</strong> até a criação de interfaces modernas com <strong>React</strong> e <strong>Next.js</strong>.
+          <br /><br />
+          🔭 <strong>Atualmente trabalhando em:</strong> Plataformas SaaS e Integrações de IA.
+          <br />
+          🌱 <strong>Aprendendo:</strong> Deep Learning Avançado e Arquitetura de Microsserviços.
+          <br />
+          💬 <strong>Pergunte-me sobre:</strong> Desenvolvimento Web, Automação e Cybersec.
+        </p>
+      </td>
+      <td width="40%" valign="top">
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCodes&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff" alt="Top Langs" height="220"/>
+        </div>
+      </td>
+    </tr>
+  </table>
 
-  currentGoal = "Impactar positivamente a comunidade tech 🚀";
+</div>
 
-  sayHello() {
-    return "Let's build something amazing together!";
-  }
-}
-```
-
-<br />
-
-## 🛠️ Arsenal Tecnológico
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-| **Frontend** | **Backend** | **Data & AI** | **Tools** |
-| :---: | :---: | :---: | :---: |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nextjs,tailwind,bootstrap,sass&perline=15" alt="Frontend Skills" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs,express,java,cs&perline=15" alt="Backend Skills" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase,supabase&perline=15" alt="Database Skills" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,postman,vercel,github,figma,photoshop&perline=15" alt="DevOps & Tools" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy,arduino,raspberrypi&perline=15" alt="AI & Hardware" />
 
+</div>
+
+<br />
+
+## 📈 Estatísticas & Contribuições
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SavioCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SavioCodes&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="Streak Stats" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SavioCodes&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <br />
 
 ## 🏆 Projetos em Destaque
 
-<div align="center">
-
-| **Projeto** | **Descrição** | **Tech Stack** |
-|:-----------|:-------------|:---------------|
-| [**Consultor de Hardware**](https://github.com/SavioCodes/Consultor-de-hadware) | Diagnóstico completo de PC e monitoramento de hardware em tempo real com GUI moderna. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-gold) |
-| [**Organizador Inteligente**](https://github.com/SavioCodes/OrganizadorArquivosInteligente) | Automação que organiza downloads e diretórios baseado em tipos de arquivo e datas, mantendo seu PC limpo. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Automation](https://img.shields.io/badge/-Automation-success) |
-| [**Blockchain do Zero**](https://github.com/SavioCodes/blockchain-do-zero) | Implementação educativa de uma blockchain funcional com API, mineração e transações. | ![Flask](https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=white) ![Crypto](https://img.shields.io/badge/-Crypto-orange) |
-| [**Neural Network Lib**](https://github.com/SavioCodes/rede-neural-do-zero) | Rede neural construída do zero (sem frameworks) para entender os fundamentos de Deep Learning. | ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Math](https://img.shields.io/badge/-Math-red) |
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔧 Consultor de Hardware</h3>
+      <div align="center">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0078D4&text=Desktop%20App&fontSize=14&height=25&width=100" />
+      </div>
+      <br />
+      <p align="center">
+        Sistema profissional de diagnóstico e dashboard para Windows. Monitoramento em tempo real de CPU, RAM e GPU.
+      </p>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=python" height="20"/> 
+        <code>tkinter</code> <code>psutil</code> <code>wmi</code>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📂 Organizador Inteligente</h3>
+      <div align="center">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=28a745&text=Automation&fontSize=14&height=25&width=100" />
+      </div>
+      <br />
+      <p align="center">
+        IA que limpa sua bagunça digital. Organiza downloads e arquivos automaticamente por contexto e data.
+      </p>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=python" height="20"/>
+        <code>automation</code> <code>watchdog</code>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧱 Blockchain do Zero</h3>
+      <div align="center">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=orange&text=Education&fontSize=14&height=25&width=100" />
+      </div>
+      <br />
+      <p align="center">
+        Implementação pura de uma blockchain. Mineração, transações e validação de blocos explicadas.
+      </p>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=python,flask" height="20"/>
+        <code>cryptography</code> <code>api</code>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧠 Rede Neural Pura</h3>
+      <div align="center">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=purple&text=AI%20Research&fontSize=14&height=25&width=100" />
+      </div>
+      <br />
+      <p align="center">
+        Deep Learning sem frameworks. Entenda como o cérebro das IAs funciona matematicamente.
+      </p>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=python,numpy" height="20"/>
+        <code>math</code> <code>ai</code>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br />
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SavioCodes&show_icons=true&theme=omni&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCodes&layout=compact&theme=omni&hide_border=true&bg_color=00000000&langs_count=6" height="150" alt="languages graph" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SavioCodes&theme=omni&hide_border=true&background=00000000" alt="streak graph" />
-</div>
-
-<br />
-
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
   
-  ### 🤝 Vamos Conectar?
+  <br />
 
+  ### 🌐 Connect With Me
+  
   <a href="https://github.com/SavioCodes">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:contato@saviocodes.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <!-- Adicione seu LinkedIn aqui se tiver -->
-  <!-- 
-  <a href="https://linkedin.com/in/SEU_USER">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  -->
 
   <br /><br />
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=100&section=footer" width="100%"/>
+  <p align="center">
+    <i>"A única maneira de fazer um ótimo trabalho é amar o que você faz."</i>
+  </p>
 
 </div>
