@@ -12,46 +12,46 @@
 
 <!-- NAV BAR -->
 <div align="center">
-  <table>
-    <tr>
-      <td><a href="#-about-me">👨‍💻 About Me</a></td>
-      <td>|</td>
-      <td><a href="#-tech-stack">🛠️ Tech Stack</a></td>
-      <td>|</td>
-      <td><a href="#-projects">🏆 Projects</a></td>
-      <td>|</td>
-      <td><a href="#-timeline">🗺️ Timeline</a></td>
-      <td>|</td>
-      <td><a href="#-setup">💻 Setup</a></td>
-      <td>|</td>
-      <td><a href="#-faq">❓ FAQ</a></td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td><a href="#-about-me">👨‍💻 About Me</a></td>
+<td>|</td>
+<td><a href="#-tech-stack">🛠️ Tech Stack</a></td>
+<td>|</td>
+<td><a href="#-projects">🏆 Projects</a></td>
+<td>|</td>
+<td><a href="#-timeline">🗺️ Timeline</a></td>
+<td>|</td>
+<td><a href="#-setup">💻 Setup</a></td>
+<td>|</td>
+<td><a href="#-faq">❓ FAQ</a></td>
+</tr>
+</table>
 </div>
 
 <br />
 
 <!-- HEADER WAVE & INTRO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0891b2&height=300&section=header&text=SavioCodes&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Architecting%20Digital%20Realities&descAlignY=60&descSize=25&descColor=cyan" alt="SavioCodes Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0891b2&height=300&section=header&text=SavioCodes&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Architecting%20Digital%20Realities&descAlignY=60&descSize=25&descColor=cyan" alt="SavioCodes Header" width="100%"/>
 </div>
 
 <!-- TROPHY CASE -->
 <div align="center">
-  <br />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SavioCodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1" alt="SavioCodes Trophies" />
-  </a>
-  <br />
+<br />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=SavioCodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1" alt="SavioCodes Trophies" />
+</a>
+<br />
 </div>
 
 <!-- TYPING SVG BIO -->
 <div align="center">
-  <br />
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Ninja+%F0%9F%A5%B7%E2%80%8D%E2%99%82%EF%B8%8F;Python+Mastermind+%F0%9F%90%8D;React+%2F+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;AI+%26+Automation+Engineer+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+Building+Something+Cool+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-  <br />
+<br />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Ninja+%F0%9F%A5%B7%E2%80%8D%E2%99%82%EF%B8%8F;Python+Mastermind+%F0%9F%90%8D;React+%2F+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;AI+%26+Automation+Engineer+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+Building+Something+Cool+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+<br />
 </div>
 
 <br />
@@ -63,46 +63,42 @@
 
 <div align="center">
 <table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>👋 Olá, Mundo!</h3>
-      <p>
-        Meu nome é <strong>Sávio</strong>, mas no mundo digital sou conhecido como <strong>SavioCodes</strong>.
-        Sou mais do que apenas um desenvolvedor; sou um <strong>solucionador de problemas</strong> apaixonado por transformar café ☕ em código limpo, escalável e eficiente.
-      </p>
-      <p>
-        Minha jornada começou com a curiosidade de entender como as coisas funcionam "por baixo do capô". Hoje, especializo-me em criar ecossistemas digitais completos, desde o banco de dados até o pixel final na tela do usuário.
-      </p>
-      
-      <br />
-      
-      <h3>🚀 Minha Filosofia</h3>
-      <blockquote>
-        <i>"A complexidade é inimiga da execução. O verdadeiro domínio está em fazer o complexo parecer simples."</i>
-      </blockquote>
-      
-      <br />
-      
-      <h3>⚡ O que eu faço?</h3>
-      <ul>
-        <li>🌐 <strong>Web App Development:</strong> SPAs performáticas com React & Next.js.</li>
-        <li>⚙️ <strong>Backend Engineering:</strong> APIs RESTful robustas com Python & Node.</li>
-        <li>🤖 <strong>AI Integration:</strong> LLMs, automação de tarefas e Data Science.</li>
-        <li>🔒 <strong>System Security:</strong> Práticas de segurança e arquitetura blindada.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-       <div align="center">
-          <h3>📊 Weekly Power</h3>
-          <!-- WakaTime Placeholder (configure se tiver a key) -->
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SavioCodes&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000" alt="WakaTime Stats" />
-          <br />
-          <br />
-          <h3>🧠 Language Core</h3>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCodes&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff&langs_count=5" alt="Top Langs" />
-       </div>
-    </td>
-  </tr>
+<tr>
+<td width="60%" valign="top">
+<h3>👋 Olá, Mundo!</h3>
+<p>
+Meu nome é <strong>Sávio</strong>, mas no mundo digital sou conhecido como <strong>SavioCodes</strong>.
+Sou mais do que apenas um desenvolvedor; sou um <strong>solucionador de problemas</strong> apaixonado por transformar café ☕ em código limpo, escalável e eficiente.
+</p>
+<p>
+Minha jornada começou com a curiosidade de entender como as coisas funcionam "por baixo do capô". Hoje, especializo-me em criar ecossistemas digitais completos, desde o banco de dados até o pixel final na tela do usuário.
+</p>
+<br />
+<h3>🚀 Minha Filosofia</h3>
+<blockquote>
+<i>"A complexidade é inimiga da execução. O verdadeiro domínio está em fazer o complexo parecer simples."</i>
+</blockquote>
+<br />
+<h3>⚡ O que eu faço?</h3>
+<ul>
+<li>🌐 <strong>Web App Development:</strong> SPAs performáticas com React & Next.js.</li>
+<li>⚙️ <strong>Backend Engineering:</strong> APIs RESTful robustas com Python & Node.</li>
+<li>🤖 <strong>AI Integration:</strong> LLMs, automação de tarefas e Data Science.</li>
+<li>🔒 <strong>System Security:</strong> Práticas de segurança e arquitetura blindada.</li>
+</ul>
+</td>
+<td width="40%" valign="top">
+<div align="center">
+<h3>📊 Weekly Power</h3>
+<!-- WakaTime Placeholder (configure se tiver a key) -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SavioCodes&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000" alt="WakaTime Stats" />
+<br />
+<br />
+<h3>🧠 Language Core</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCodes&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff&langs_count=5" alt="Top Langs" />
+</div>
+</td>
+</tr>
 </table>
 </div>
 
