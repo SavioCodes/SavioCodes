@@ -6,35 +6,27 @@
   ███████║██║  ██║ ╚████╔╝ ██║╚██████╔╝╚██████╗╚██████╔╝██████╔╝███████╗███████║
   ╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
                                                       
-  Welcome to my GitHub Profile V3 - The Ultimate Edition.
-  Best viewed in Dark Mode.
+  Welcome to my GitHub Profile V4 - The Robust Edition.
+  Ideally this README is viewed on GitHub with Dark Mode enabled.
 -->
 
 <!-- NAV BAR -->
 <div align="center">
-  <kbd>
-    <a href="#-about-me">Sobre</a>
-  </kbd>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <kbd>
-    <a href="#-tech-stack">Stack</a>
-  </kbd>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <kbd>
-    <a href="#-projects">Projetos</a>
-  </kbd>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <kbd>
-    <a href="#-timeline">Timeline</a>
-  </kbd>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <kbd>
-    <a href="#-setup">Setup</a>
-  </kbd>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <kbd>
-    <a href="#-faq">FAQ</a>
-  </kbd>
+  <table>
+    <tr>
+      <td><a href="#-about-me">👨‍💻 About Me</a></td>
+      <td>|</td>
+      <td><a href="#-tech-stack">🛠️ Tech Stack</a></td>
+      <td>|</td>
+      <td><a href="#-projects">🏆 Projects</a></td>
+      <td>|</td>
+      <td><a href="#-timeline">🗺️ Timeline</a></td>
+      <td>|</td>
+      <td><a href="#-setup">💻 Setup</a></td>
+      <td>|</td>
+      <td><a href="#-faq">❓ FAQ</a></td>
+    </tr>
+  </table>
 </div>
 
 <br />
@@ -69,7 +61,8 @@
 <!-- ABOUT ME SECTION -->
 ## 👨‍💻 About Me
 
-<table align="center" width="100%" border="0">
+<div align="center">
+<table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
       <h3>👋 Olá, Mundo!</h3>
@@ -95,7 +88,7 @@
         <li>🌐 <strong>Web App Development:</strong> SPAs performáticas com React & Next.js.</li>
         <li>⚙️ <strong>Backend Engineering:</strong> APIs RESTful robustas com Python & Node.</li>
         <li>🤖 <strong>AI Integration:</strong> LLMs, automação de tarefas e Data Science.</li>
-        <li>� <strong>System Security:</strong> Práticas de segurança e arquitetura blindada.</li>
+        <li>🔒 <strong>System Security:</strong> Práticas de segurança e arquitetura blindada.</li>
       </ul>
     </td>
     <td width="40%" valign="top">
@@ -111,6 +104,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 <br />
 
@@ -121,23 +115,30 @@
 
 <div align="center">
 
-### 🎨 Frontend & Design
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind,bootstrap,sass,figma,photoshop&perline=11" />
-
-### ⚙️ Backend & API
-<img src="https://skillicons.dev/icons?i=python,nodejs,express,flask,fastapi,java,cs,php,ruby,go&perline=11" />
-
-### 🗄️ Database & Cloud
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase,supabase,aws,googlecloud,vercel,netlify&perline=11" />
-
-### 🧬 AI & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy,sklearn,matplotlib,anaconda&perline=11" />
-
-### � DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,bash,powershell,jenkins,grafana,nginx&perline=11" />
-
-### 🧪 Testing & Quality
-<img src="https://skillicons.dev/icons?i=jest,selenium,postman,vite,webpack&perline=11" />
+<table border="0">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind,bootstrap,sass,figma,photoshop&perline=4" alt="Frontend" />
+      <br />
+      <strong>Frontend & Design</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=python,nodejs,express,flask,fastapi,java,cs,php,ruby,go&perline=4" alt="Backend" />
+      <br />
+      <strong>Backend & API</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase,supabase,aws,googlecloud,vercel,netlify&perline=4" alt="Cloud" />
+      <br />
+      <strong>DB & Cloud</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy,sklearn,matplotlib,anaconda&perline=4" alt="AI" />
+      <br />
+      <strong>AI & Data</strong>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -151,11 +152,11 @@
 <div align="center">
 
 <!-- PROJECT 1 -->
-<table>
+<table border="0" width="100%">
   <tr>
     <td width="100%">
       <h3 align="center">
-        <a href="https://github.com/SavioCodes/Consultor-de-hadware">�️ Consultor de Hardware Pro</a>
+        <a href="https://github.com/SavioCodes/Consultor-de-hadware">🖥️ Consultor de Hardware Pro</a>
       </h3>
       <div align="center">
          <img src="https://capsule-render.vercel.app/api?type=rect&color=0078D4&text=Desktop%20Solution&fontSize=10&height=20&width=100" />
@@ -182,7 +183,7 @@
 <br />
 
 <!-- PROJECT 2 -->
-<table>
+<table border="0" width="100%">
   <tr>
     <td width="100%">
       <h3 align="center">
@@ -213,10 +214,11 @@
 <br />
 
 <!-- PROJECT 3 -->
-<table>
+<table border="0" width="100%">
   <tr>
     <td width="100%">
       <h3 align="center">
+
         <a href="https://github.com/SavioCodes/blockchain-do-zero">⛓️ Blockchain Engine</a>
       </h3>
       <div align="center">
@@ -293,7 +295,7 @@
 <!-- SETUP SECTION -->
 ## 💻 My Gear & Setup
 
-<table>
+<table align="center">
   <thead>
     <tr>
       <th>Categoria</th>
@@ -335,30 +337,45 @@
 <!-- FAQ SECTION -->
 ## ❓ FAQ (Frequently Asked Questions)
 
-<details>
-<summary><strong>Você aceita projetos Freelance?</strong></summary>
-<br />
-Sim! Estou aberto a propostas interessantes, especialmente se envolverem React, Python ou automação. Entre em contato por email.
-</details>
-
-<details>
-<summary><strong>Qual sua stack favorita para começar um projeto hoje?</strong></summary>
-<br />
-Para MVP rápido: Next.js + Tailwind CSS + Supabase.
-Para Data Science: Jupyter Notebook + Pandas + Scikit-Learn.
-</details>
-
-<details>
-<summary><strong>Você oferece mentoria?</strong></summary>
-<br />
-Eventualmente ajudo iniciantes na comunidade. Se tiver uma dúvida específica, sinta-se à vontade para abrir uma Issue no repositório "AMA" (Ask Me Anything).
-</details>
-
-<details>
-<summary><strong>MacOS, Linux ou Windows?</strong></summary>
-<br />
-Uso Windows com WSL2 pela versatilidade de rodar jogos e ambiente Linux nativo simultaneamente. Mas amo a estabilidade do Linux em servidores.
-</details>
+<table border="0" width="100%">
+  <tr>
+    <td>
+      <details>
+        <summary><strong>Você aceita projetos Freelance?</strong></summary>
+        <br />
+        Sim! Estou aberto a propostas interessantes, especialmente se envolverem React, Python ou automação. Entre em contato por email.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <details>
+        <summary><strong>Qual sua stack favorita para começar um projeto hoje?</strong></summary>
+        <br />
+        Para MVP rápido: Next.js + Tailwind CSS + Supabase.
+        Para Data Science: Jupyter Notebook + Pandas + Scikit-Learn.
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <details>
+        <summary><strong>Você oferece mentoria?</strong></summary>
+        <br />
+        Eventualmente ajudo iniciantes na comunidade. Se tiver uma dúvida específica, sinta-se à vontade para abrir uma Issue no repositório "AMA" (Ask Me Anything).
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <details>
+        <summary><strong>MacOS, Linux ou Windows?</strong></summary>
+        <br />
+        Uso Windows com WSL2 pela versatilidade de rodar jogos e ambiente Linux nativo simultaneamente. Mas amo a estabilidade do Linux em servidores e containers.
+      </details>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -376,11 +393,21 @@ Uso Windows com WSL2 pela versatilidade de rodar jogos e ambiente Linux nativo s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SavioCodes&theme=tokyonight&hide_border=true&background=0D1117" height="180" />
 </div>
 
+<!-- SPOTIFY & MUSIC -->
+<br />
+<div align="center">
+  <!-- 
+    SETUP SPOTIFY: 
+    1. Acesse https://github.com/novatorem/novatorem
+    2. Siga o tutorial para obter seu Client ID/Secret e configurar.
+    3. Abaixo está o código pronto para quando você tiver configurado.
+  -->
+  <a href="https://spotify.com">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=0D1117" alt="Spotify Playing" />
+  </a>
+</div>
+
 <!-- SNAKET ANIMATION -->
-<!-- 
-  Nota: Para a animação da cobrinha funcionar, você precisa configurar a GitHub Action.
-  A imagem abaixo é um placeholder do output esperado.
--->
 <div align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SavioCodes&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
