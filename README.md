@@ -1,149 +1,177 @@
 <!--
-  WELCOME TO SAVIOCODES ROFILE V2
-  Ideally viewed in Dark Mode.
+  ███████╗ █████╗ ██╗   ██╗██╗ ██████╗  ██████╗ ██████╗ ██████╗ ███████╗███████╗
+  ██╔════╝██╔══██╗██║   ██║██║██╔═══██╗██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔════╝
+  ███████╗███████║██║   ██║██║██║   ██║██║     ██║   ██║██║  ██║█████╗  ███████╗
+  ╚════██║██╔══██║╚██╗ ██╔╝██║██║   ██║██║     ██║   ██║██║  ██║██╔══╝  ╚════██║
+  ███████║██║  ██║ ╚████╔╝ ██║╚██████╔╝╚██████╗╚██████╔╝██████╔╝███████╗███████║
+  ╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
+                                                      
+  Welcome to my GitHub Profile V3 - The Ultimate Edition.
+  Best viewed in Dark Mode.
 -->
 
+<!-- NAV BAR -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=SavioCodes&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Innovating%20the%20Future%20with%20Code&descAlignY=60&descSize=25&descColor=cyan" alt="SavioCodes Header" width="100%"/>
+  <kbd>
+    <a href="#-about-me">Sobre</a>
+  </kbd>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <kbd>
+    <a href="#-tech-stack">Stack</a>
+  </kbd>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <kbd>
+    <a href="#-projects">Projetos</a>
+  </kbd>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <kbd>
+    <a href="#-timeline">Timeline</a>
+  </kbd>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <kbd>
+    <a href="#-setup">Setup</a>
+  </kbd>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <kbd>
+    <a href="#-faq">FAQ</a>
+  </kbd>
 </div>
 
+<br />
+
+<!-- HEADER WAVE & INTRO -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SavioCodes&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Architecting%20Digital%20Realities&descAlignY=60&descSize=25&descColor=cyan" alt="SavioCodes Header" width="100%"/>
+</div>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SavioCodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="SavioCodes Trophies" />
-  </a>
-
+<!-- TROPHY CASE -->
+<div align="center">
   <br />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SavioCodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1" alt="SavioCodes Trophies" />
+  </a>
+  <br />
+</div>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Python+%7C+React+%7C+TypeScript+%7C+AI;Building+Scalable+Solutions+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9D%A4%EF%B8%8F;Turning+Coffee+into+Code+%E2%98%95)](https://git.io/typing-svg)
-
+<!-- TYPING SVG BIO -->
+<div align="center">
+  <br />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Ninja+%F0%9F%A5%B7%E2%80%8D%E2%99%82%EF%B8%8F;Python+Mastermind+%F0%9F%90%8D;React+%2F+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;AI+%26+Automation+Engineer+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+Building+Something+Cool+%F0%9F%9A%80)](https://git.io/typing-svg)
+  <br />
 </div>
 
 <br />
 
-<div align="center">
-  
-  <table>
-    <tr>
-      <td width="60%" valign="top">
-        <h2>⚡ Sobre Mim</h2>
-        <br />
-        <p>
-          👋 <strong>Olá, sou o Sávio!</strong> Um entusiasta de tecnologia apaixonado por construir o futuro.
-          <br /><br />
-          Sou um <strong>Full Stack Developer</strong> focado em criar experiências digitais imersivas e performáticas. 
-          Minha jornada vai desde a automação de processos complexos com <strong>Python</strong> até a criação de interfaces modernas com <strong>React</strong> e <strong>Next.js</strong>.
-          <br /><br />
-          🔭 <strong>Atualmente trabalhando em:</strong> Plataformas SaaS e Integrações de IA.
-          <br />
-          🌱 <strong>Aprendendo:</strong> Deep Learning Avançado e Arquitetura de Microsserviços.
-          <br />
-          💬 <strong>Pergunte-me sobre:</strong> Desenvolvimento Web, Automação e Cybersec.
-        </p>
-      </td>
-      <td width="40%" valign="top">
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCodes&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff" alt="Top Langs" height="220"/>
-        </div>
-      </td>
-    </tr>
-  </table>
+---
 
-</div>
+<!-- ABOUT ME SECTION -->
+## 👨‍💻 About Me
 
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nextjs,tailwind,bootstrap,sass&perline=15" alt="Frontend Skills" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs,express,java,cs&perline=15" alt="Backend Skills" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase,supabase&perline=15" alt="Database Skills" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,postman,vercel,github,figma,photoshop&perline=15" alt="DevOps & Tools" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy,arduino,raspberrypi&perline=15" alt="AI & Hardware" />
-
-</div>
-
-<br />
-
-## 📈 Estatísticas & Contribuições
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SavioCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SavioCodes&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="Streak Stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SavioCodes&theme=tokyonight" alt="Profile Details" />
-</div>
-
-<br />
-
-## 🏆 Projetos em Destaque
-
-<table width="100%">
+<table align="center" width="100%" border="0">
   <tr>
-    <td width="50%">
-      <h3 align="center">🔧 Consultor de Hardware</h3>
-      <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0078D4&text=Desktop%20App&fontSize=14&height=25&width=100" />
-      </div>
-      <br />
-      <p align="center">
-        Sistema profissional de diagnóstico e dashboard para Windows. Monitoramento em tempo real de CPU, RAM e GPU.
+    <td width="60%" valign="top">
+      <h3>👋 Olá, Mundo!</h3>
+      <p>
+        Meu nome é <strong>Sávio</strong>, mas no mundo digital sou conhecido como <strong>SavioCodes</strong>.
+        Sou mais do que apenas um desenvolvedor; sou um <strong>solucionador de problemas</strong> apaixonado por transformar café ☕ em código limpo, escalável e eficiente.
       </p>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=python" height="20"/> 
-        <code>tkinter</code> <code>psutil</code> <code>wmi</code>
-      </div>
+      <p>
+        Minha jornada começou com a curiosidade de entender como as coisas funcionam "por baixo do capô". Hoje, especializo-me em criar ecossistemas digitais completos, desde o banco de dados até o pixel final na tela do usuário.
+      </p>
+      
+      <br />
+      
+      <h3>🚀 Minha Filosofia</h3>
+      <blockquote>
+        <i>"A complexidade é inimiga da execução. O verdadeiro domínio está em fazer o complexo parecer simples."</i>
+      </blockquote>
+      
+      <br />
+      
+      <h3>⚡ O que eu faço?</h3>
+      <ul>
+        <li>🌐 <strong>Web App Development:</strong> SPAs performáticas com React & Next.js.</li>
+        <li>⚙️ <strong>Backend Engineering:</strong> APIs RESTful robustas com Python & Node.</li>
+        <li>🤖 <strong>AI Integration:</strong> LLMs, automação de tarefas e Data Science.</li>
+        <li>� <strong>System Security:</strong> Práticas de segurança e arquitetura blindada.</li>
+      </ul>
     </td>
-    <td width="50%">
-      <h3 align="center">📂 Organizador Inteligente</h3>
-      <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=28a745&text=Automation&fontSize=14&height=25&width=100" />
-      </div>
-      <br />
-      <p align="center">
-        IA que limpa sua bagunça digital. Organiza downloads e arquivos automaticamente por contexto e data.
-      </p>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=python" height="20"/>
-        <code>automation</code> <code>watchdog</code>
-      </div>
+    <td width="40%" valign="top">
+       <div align="center">
+          <h3>📊 Weekly Power</h3>
+          <!-- WakaTime Placeholder (configure se tiver a key) -->
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SavioCodes&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000" alt="WakaTime Stats" />
+          <br />
+          <br />
+          <h3>🧠 Language Core</h3>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCodes&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff&langs_count=5" alt="Top Langs" />
+       </div>
     </td>
   </tr>
+</table>
+
+<br />
+
+---
+
+<!-- TECH STACK SECTION -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend & Design
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind,bootstrap,sass,figma,photoshop&perline=11" />
+
+### ⚙️ Backend & API
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,flask,fastapi,java,cs,php,ruby,go&perline=11" />
+
+### 🗄️ Database & Cloud
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,firebase,supabase,aws,googlecloud,vercel,netlify&perline=11" />
+
+### 🧬 AI & Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy,sklearn,matplotlib,anaconda&perline=11" />
+
+### � DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,bash,powershell,jenkins,grafana,nginx&perline=11" />
+
+### 🧪 Testing & Quality
+<img src="https://skillicons.dev/icons?i=jest,selenium,postman,vite,webpack&perline=11" />
+
+</div>
+
+<br />
+
+---
+
+<!-- PROJECTS SECTION -->
+## 🏆 Projetos em Destaque
+
+<div align="center">
+
+<!-- PROJECT 1 -->
+<table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🧱 Blockchain do Zero</h3>
+    <td width="100%">
+      <h3 align="center">
+        <a href="https://github.com/SavioCodes/Consultor-de-hadware">�️ Consultor de Hardware Pro</a>
+      </h3>
       <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=orange&text=Education&fontSize=14&height=25&width=100" />
+         <img src="https://capsule-render.vercel.app/api?type=rect&color=0078D4&text=Desktop%20Solution&fontSize=10&height=20&width=100" />
+         &nbsp;
+         <img src="https://img.shields.io/github/stars/SavioCodes/Consultor-de-hadware?style=social" />
       </div>
       <br />
       <p align="center">
-        Implementação pura de uma blockchain. Mineração, transações e validação de blocos explicadas.
+        Uma suíte completa de diagnóstico de hardware desenvolvida para Windows. Monitora temperatura, uso de CPU/GPU, RAM e saúde dos discos em tempo real. Interface rica construída com Tkinter e estilizada para parecer nativa e moderna.
       </p>
+      <br />
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=python,flask" height="20"/>
-        <code>cryptography</code> <code>api</code>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧠 Rede Neural Pura</h3>
-      <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=purple&text=AI%20Research&fontSize=14&height=25&width=100" />
+         <strong>Key Features:</strong><br />
+         <code>Real-time Monitoring</code> • <code>Hardware Info</code> • <code>PDF Reports</code> • <code>Dark Mode</code>
       </div>
       <br />
-      <p align="center">
-        Deep Learning sem frameworks. Entenda como o cérebro das IAs funciona matematicamente.
-      </p>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=python,numpy" height="20"/>
-        <code>math</code> <code>ai</code>
+        <img src="https://skillicons.dev/icons?i=python,windows" height="25"/>
       </div>
     </td>
   </tr>
@@ -151,12 +179,221 @@
 
 <br />
 
+<!-- PROJECT 2 -->
+<table>
+  <tr>
+    <td width="100%">
+      <h3 align="center">
+        <a href="https://github.com/SavioCodes/OrganizadorArquivosInteligente">📂 AI File Organizer</a>
+      </h3>
+       <div align="center">
+         <img src="https://capsule-render.vercel.app/api?type=rect&color=28a745&text=Automation&fontSize=10&height=20&width=80" />
+         &nbsp;
+         <img src="https://img.shields.io/github/stars/SavioCodes/OrganizadorArquivosInteligente?style=social" />
+      </div>
+      <br />
+      <p align="center">
+        Um agente inteligente que roda em background e mantém sua pasta de Downloads e Documentos organizada. Ele analisa a extensão, data e até o conteúdo do arquivo para decidir onde movê-lo. Nunca mais perca um PDF importante.
+      </p>
+      <br />
+      <div align="center">
+         <strong>Key Features:</strong><br />
+         <code>Background Service</code> • <code>Instant Sort</code> • <code>Custom Rules</code> • <code>Duplicate Cleaner</code>
+      </div>
+      <br />
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=python,bash" height="25"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- PROJECT 3 -->
+<table>
+  <tr>
+    <td width="100%">
+      <h3 align="center">
+        <a href="https://github.com/SavioCodes/blockchain-do-zero">⛓️ Blockchain Engine</a>
+      </h3>
+      <div align="center">
+         <img src="https://capsule-render.vercel.app/api?type=rect&color=orange&text=Education&fontSize=10&height=20&width=80" />
+         &nbsp;
+         <img src="https://img.shields.io/github/stars/SavioCodes/blockchain-do-zero?style=social" />
+      </div>
+      <br />
+      <p align="center">
+        Implementação "from scratch" de uma Blockchain funcional. Inclui mecanismo de Proof-of-Work, sistema de transações, validação de nós e uma API REST completa para interagir com a rede. Perfeito para entender a tecnologia por trás do Bitcoin.
+      </p>
+      <br />
+      <div align="center">
+         <strong>Key Features:</strong><br />
+         <code>Proof of Work</code> • <code>Decentralized Nodes</code> • <code>Transaction Ledger</code> • <code>REST API</code>
+      </div>
+      <br />
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=python,flask,docker" height="25"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br />
+
+---
+
+<!-- TIMELINE SECTION -->
+## 🗺️ Developer Journey
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <code>2020</code> <strong>Início da Jornada</strong>
+  <br />
+  Comecei explorando lógica de programação com Python e Scripts de automação simples.
+  <br />
+  ⬇
+  <br />
+  <code>2021</code> <strong>Deep Dive no Web Dev</strong>
+  <br />
+  Mergulho profundo em HTML, CSS e JavaScript. Criação dos primeiros sites estáticos.
+  <br />
+  ⬇
+  <br />
+  <code>2022</code> <strong>O Ano do Full Stack</strong>
+  <br />
+  Adotei React e Node.js. Comecei a construir aplicações completas com Banco de Dados.
+  <br />
+  ⬇
+  <br />
+  <code>2023</code> <strong>Especialização & Freelancing</strong>
+  <br />
+  Foco em TypeScript e Arquitetura de Software. Primeiros projetos freelancer entregues.
+  <br />
+  ⬇
+  <br />
+  <code>2024</code> <strong>AI & Next Level</strong>
+  <br />
+  Integração de LLMs em projetos, foco em cybersecurity e performance extrema.
+  <br />
+  ⬇
+  <br />
+  <code>2025</code> <strong>O Futuro</strong>
+  <br />
+  <i>Construindo a próxima geração de soluções SaaS.</i>
+</div>
+
+<br />
+
+---
+
+<!-- SETUP SECTION -->
+## 💻 My Gear & Setup
+
+<table>
+  <thead>
+    <tr>
+      <th>Categoria</th>
+      <th>Item / Spec</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>💻 <strong>OS</strong></td>
+      <td>Windows 11 Pro / WSL2 (Ubuntu)</td>
+    </tr>
+    <tr>
+      <td>🖥️ <strong>Terminal</strong></td>
+      <td>Windows Terminal + Oh My Posh</td>
+    </tr>
+    <tr>
+      <td>📝 <strong>Editor</strong></td>
+      <td>VS Code (Theme: Tokyo Night)</td>
+    </tr>
+    <tr>
+      <td>🅰️ <strong>Font</strong></td>
+      <td>Fira Code Nerd Font</td>
+    </tr>
+    <tr>
+      <td>🧠 <strong>Browser</strong></td>
+      <td>Brave & Chrome (DevTools)</td>
+    </tr>
+    <tr>
+      <td>⌨️ <strong>Keyboard</strong></td>
+      <td>Mechanical Keychron K2</td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+---
+
+<!-- FAQ SECTION -->
+## ❓ FAQ (Frequently Asked Questions)
+
+<details>
+<summary><strong>Você aceita projetos Freelance?</strong></summary>
+<br />
+Sim! Estou aberto a propostas interessantes, especialmente se envolverem React, Python ou automação. Entre em contato por email.
+</details>
+
+<details>
+<summary><strong>Qual sua stack favorita para começar um projeto hoje?</strong></summary>
+<br />
+Para MVP rápido: Next.js + Tailwind CSS + Supabase.
+Para Data Science: Jupyter Notebook + Pandas + Scikit-Learn.
+</details>
+
+<details>
+<summary><strong>Você oferece mentoria?</strong></summary>
+<br />
+Eventualmente ajudo iniciantes na comunidade. Se tiver uma dúvida específica, sinta-se à vontade para abrir uma Issue no repositório "AMA" (Ask Me Anything).
+</details>
+
+<details>
+<summary><strong>MacOS, Linux ou Windows?</strong></summary>
+<br />
+Uso Windows com WSL2 pela versatilidade de rodar jogos e ambiente Linux nativo simultaneamente. Mas amo a estabilidade do Linux em servidores.
+</details>
+
+<br />
+
+---
+
+<!-- STATS DASHBOARD -->
+## 📈 The Dashboard
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SavioCodes&theme=tokyonight" alt="Profile Details" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SavioCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SavioCodes&theme=tokyonight&hide_border=true&background=0D1117" height="180" />
+</div>
+
+<!-- SNAKET ANIMATION -->
+<!-- 
+  Nota: Para a animação da cobrinha funcionar, você precisa configurar a GitHub Action.
+  A imagem abaixo é um placeholder do output esperado.
+-->
+<div align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=SavioCodes&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+<br />
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%"/>
   
   <br />
 
-  ### 🌐 Connect With Me
+  <h2>📫 Contact & Socials</h2>
   
   <a href="https://github.com/SavioCodes">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
@@ -164,11 +401,19 @@
   <a href="mailto:contato@saviocodes.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
 
   <br /><br />
   
   <p align="center">
-    <i>"A única maneira de fazer um ótimo trabalho é amar o que você faz."</i>
+    Made with ❤️ and <img src="https://skillicons.dev/icons?i=vscode" width="20"/> by <strong>SavioCodes</strong>.
+    <br />
+    © 2025 SavioCodes. All rights reserved.
   </p>
 
 </div>
