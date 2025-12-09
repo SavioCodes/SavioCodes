@@ -71,13 +71,12 @@ Minha jornada começou com a curiosidade de entender como as coisas funcionam "p
 </td>
 <td width="45%" valign="top">
 <div align="center">
-<h3>📊 Weekly Power</h3>
-<!-- WakaTime Placeholder (configure se tiver a key) -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SavioCodes&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000" alt="WakaTime Stats" />
+<h3>📊 GitHub Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=SavioCodes&theme=tokyonight&show_icons=true&hide_border=true&bg_color=transparent" alt="SavioCodes Stats" />
 <br />
 <br />
-<h3>🧠 Core Languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff&langs_count=6" alt="Top Langs" />
+<h3>🧠 Top Languages</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent&langs_count=6" alt="Top Langs" />
 </div>
 </td>
 </tr>
