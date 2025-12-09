@@ -41,7 +41,7 @@
 
 <!-- HEADER WAVE & INTRO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SavioCodes&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Architecting%20Digital%20Realities&descAlignY=60&descSize=25&descColor=cyan" alt="SavioCodes Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0891b2&height=300&section=header&text=SavioCodes&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Architecting%20Digital%20Realities&descAlignY=60&descSize=25&descColor=cyan" alt="SavioCodes Header" width="100%"/>
 </div>
 
 <!-- TROPHY CASE -->
@@ -56,7 +56,9 @@
 <!-- TYPING SVG BIO -->
 <div align="center">
   <br />
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Ninja+%F0%9F%A5%B7%E2%80%8D%E2%99%82%EF%B8%8F;Python+Mastermind+%F0%9F%90%8D;React+%2F+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;AI+%26+Automation+Engineer+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+Building+Something+Cool+%F0%9F%9A%80)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Ninja+%F0%9F%A5%B7%E2%80%8D%E2%99%82%EF%B8%8F;Python+Mastermind+%F0%9F%90%8D;React+%2F+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;AI+%26+Automation+Engineer+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+Building+Something+Cool+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
   <br />
 </div>
 
@@ -389,7 +391,7 @@ Uso Windows com WSL2 pela versatilidade de rodar jogos e ambiente Linux nativo s
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0891b2&height=150&section=footer" width="100%"/>
   
   <br />
 
