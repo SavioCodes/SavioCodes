@@ -6,14 +6,13 @@
   ███████║██║  ██║ ╚████╔╝ ██║╚██████╔╝╚██████╗╚██████╔╝██████╔╝███████╗███████║
   ╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
                                                       
-  Welcome to my GitHub Profile V5 - The Bulletproof Edition.
-  Designed for maximum stability and compatibility.
+  Welcome to my GitHub Profile V7 - Visual Overhaul Edition.
 -->
 
 <!-- NAV BAR -->
 <div align="center">
-<a href="#-about-me">👨‍💻 About Me</a> &nbsp;|&nbsp;
-<a href="#-tech-stack">🛠️ Tech Stack</a> &nbsp;|&nbsp;
+<a href="#-about-me">👨‍💻 About</a> &nbsp;|&nbsp;
+<a href="#-tech-stack">🛠️ Tech</a> &nbsp;|&nbsp;
 <a href="#-projects">🏆 Projects</a> &nbsp;|&nbsp;
 <a href="#-timeline">🗺️ Timeline</a> &nbsp;|&nbsp;
 <a href="#-setup">💻 Setup</a> &nbsp;|&nbsp;
@@ -24,16 +23,17 @@
 
 <!-- HEADER WAVE & INTRO -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0891b2&height=300&section=header&text=SavioCodes&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Architecting%20Digital%20Realities&descAlignY=60&descSize=25&descColor=cyan" alt="SavioCodes Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,30,00D9FF,0891b2&height=300&section=header&text=SavioCodes&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Architecting%20Digital%20Realities&descAlignY=60&descSize=25&descColor=cyan" alt="SavioCodes Header" width="100%"/>
 </div>
 
 <!-- TYPING SVG BIO -->
 <div align="center">
 <br />
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Ninja+%F0%9F%A5%B7%E2%80%8D%E2%99%82%EF%B8%8F;Python+Mastermind+%F0%9F%90%8D;React+%2F+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;AI+%26+Automation+Engineer+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Always+Building+Something+Cool+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=15+Years+Old+Dev+%F0%9F%91%A6;5+Years+of+Experience+%F0%9F%93%88;Python+Mastermind+%F0%9F%90%8D;React+%2F+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 <br />
+<img src="https://komarev.com/ghpvc/?username=SavioCodes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <br />
@@ -41,42 +41,35 @@
 ---
 
 <!-- ABOUT ME SECTION -->
-## 👨‍💻 About Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00D9FF,0891b2&height=45&text=About%20Me&fontSize=25&fontColor=ffffff&fontAlignY=50" width="100%" />
+</div>
+<br />
 
 <div align="center">
 <table border="0" width="100%">
 <tr>
 <td width="55%" valign="top">
-<h3>👋 Olá, Mundo!</h3>
+<h3>👋 Olá, sou o Sávio!</h3>
 <p>
-Meu nome é <strong>Sávio</strong>, mas no mundo digital sou conhecido como <strong>SavioCodes</strong>.
-Sou um <strong>solucionador de problemas</strong> apaixonado por transformar café ☕ em código limpo, escalável e eficiente.
+Tenho <strong>15 anos</strong> e sou do <strong>Brasil</strong> 🇧🇷. Minha vida gira em torno de linhas de código e café.
+Comecei a programar aos <strong>10 anos de idade</strong> e não parei mais.
 </p>
 <p>
-Minha jornada começou com a curiosidade de entender como as coisas funcionam "por baixo do capô". Hoje, especializo-me em criar ecossistemas digitais completos, desde o banco de dados até o pixel final na tela do usuário.
+Nos primeiros anos, meu foco era criar <strong>JOGOS</strong> 🎮, mas descobri que minha verdadeira paixão era construir coisas úteis. Migrei para <strong>Bots de Discord</strong>, depois Sites e Sistemas.
 </p>
-<br />
-<h3>🚀 Minha Filosofia</h3>
-<blockquote>
-<i>"A complexidade é inimiga da execução. O verdadeiro domínio está em fazer o complexo parecer simples."</i>
-</blockquote>
-<br />
-<h3>⚡ O que eu faço?</h3>
-<ul>
-<li>🌐 <strong>Web App Development</strong> (React, Next.js)</li>
-<li>⚙️ <strong>Backend Engineering</strong> (Python, Node.js)</li>
-<li>🤖 <strong>AI Integration</strong> (LLMs, Automation)</li>
-<li>🔒 <strong>System Security</strong> (Cybersecurity)</li>
-</ul>
+<p>
+Hoje, com cerca de <strong>5 anos de experiência prática</strong>, estou focado há 3 anos no desenvolvimento profissional de <strong>Web Apps, Sistemas Completos e Automação</strong>.
+</p>
 </td>
 <td width="45%" valign="top">
 <div align="center">
 <h3>📊 GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=SavioCodes&theme=tokyonight&show_icons=true&hide_border=true&bg_color=transparent" alt="SavioCodes Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=SavioCodes&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" alt="SavioCodes Stats" />
 <br />
 <br />
 <h3>🧠 Top Languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent&langs_count=6" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioCodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Langs" />
 </div>
 </td>
 </tr>
@@ -88,7 +81,10 @@ Minha jornada começou com a curiosidade de entender como as coisas funcionam "p
 ---
 
 <!-- TECH STACK SECTION -->
-## 🛠️ Tech Stack
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00D9FF,0891b2&height=45&text=Tech%20Stack&fontSize=25&fontColor=ffffff&fontAlignY=50" width="100%" />
+</div>
+<br />
 
 <div align="center">
 <table border="0">
@@ -122,7 +118,10 @@ Minha jornada começou com a curiosidade de entender como as coisas funcionam "p
 ---
 
 <!-- PROJECTS SECTION -->
-## 🏆 Projetos em Destaque
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00D9FF,0891b2&height=45&text=Featured%20Projects&fontSize=25&fontColor=ffffff&fontAlignY=50" width="100%" />
+</div>
+<br />
 
 <div align="center">
 
@@ -224,42 +223,45 @@ Implementação "from scratch" de uma Blockchain funcional. Inclui mecanismo de 
 ---
 
 <!-- TIMELINE SECTION -->
-## 🗺️ Developer Journey
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00D9FF,0891b2&height=45&text=My%20Journey&fontSize=25&fontColor=ffffff&fontAlignY=50" width="100%" />
+</div>
+<br />
 
 <div align="center">
-<code>2020</code> <strong>Início da Jornada</strong>
+<code>2020</code> <strong>O Início (10 Anos)</strong>
 <br />
-Exploração de lógica de programação com Python e automação.
-<br />
-⬇
-<br />
-<code>2021</code> <strong>Deep Dive no Web Dev</strong>
-<br />
-HTML, CSS, JavaScript e primeiros sites estáticos.
+Comecei criando scripts para jogos. O primeiro "Hello World" a gente nunca esquece.
 <br />
 ⬇
 <br />
-<code>2022</code> <strong>O Ano do Full Stack</strong>
+<code>2021</code> <strong>A Era dos Bots</strong>
 <br />
-React, Node.js e construção de aplicações com Banco de Dados.
-<br />
-⬇
-<br />
-<code>2023</code> <strong>Especialização & Freelancing</strong>
-<br />
-TypeScript, Arquitetura de Software e projetos reais.
+Criei bots complexos para Discord usando JavaScript e Python.
 <br />
 ⬇
 <br />
-<code>2024</code> <strong>AI & Next Level</strong>
+<code>2022</code> <strong>Full Stack & Sistemas</strong>
 <br />
-LLMs, Cybersecurity e performance extrema.
+Migrei para desenvolvimento Web sério. React, Node e Banco de Dados.
+<br />
+⬇
+<br />
+<code>2023</code> <strong>Freelancing & Expansão</strong>
+<br />
+Comecei a pegar projetos reais e focar em arquitetura limpa.
+<br />
+⬇
+<br />
+<code>2024</code> <strong>Automação & IA</strong>
+<br />
+Foco total em integrar Inteligência Artificial nos meus sistemas.
 <br />
 ⬇
 <br />
 <code>2025</code> <strong>O Futuro</strong>
 <br />
-<i>Construindo a próxima geração de SaaS.</i>
+<i>"Building the future, one line of code at a time."</i>
 </div>
 
 <br />
@@ -267,7 +269,10 @@ LLMs, Cybersecurity e performance extrema.
 ---
 
 <!-- SETUP SECTION -->
-## 💻 My Gear & Setup
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00D9FF,0891b2&height=45&text=My%20Setup&fontSize=25&fontColor=ffffff&fontAlignY=50" width="100%" />
+</div>
+<br />
 
 <table align="center">
 <thead>
@@ -309,7 +314,10 @@ LLMs, Cybersecurity e performance extrema.
 ---
 
 <!-- FAQ SECTION -->
-## ❓ FAQ (Frequently Asked Questions)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00D9FF,0891b2&height=45&text=FAQ&fontSize=25&fontColor=ffffff&fontAlignY=50" width="100%" />
+</div>
+<br />
 
 <table border="0" width="100%">
 <tr>
@@ -334,9 +342,9 @@ Para Data Science: Jupyter Notebook + Pandas + Scikit-Learn.
 <tr>
 <td>
 <details>
-<summary><strong>Você oferece mentoria?</strong></summary>
+<summary><strong>Com quantos anos você começou?</strong></summary>
 <br />
-Eventualmente ajudo iniciantes na comunidade. Se tiver uma dúvida específica, sinta-se à vontade para abrir uma Issue no repositório "AMA" (Ask Me Anything).
+Comecei com 10 anos de idade. Hoje tenho 15 e já acumulo 5 anos de aprendizado contínuo.
 </details>
 </td>
 </tr>
@@ -347,7 +355,10 @@ Eventualmente ajudo iniciantes na comunidade. Se tiver uma dúvida específica, 
 ---
 
 <!-- STATS DASHBOARD -->
-## 📈 The Dashboard
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00D9FF,0891b2&height=45&text=Performance&fontSize=25&fontColor=ffffff&fontAlignY=50" width="100%" />
+</div>
+<br />
 
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SavioCodes&theme=tokyonight" alt="Profile Details" />
