@@ -334,6 +334,27 @@ Coleção de bots e sistemas pro Discord.
 
 ---
 
+### 05) MailSieve
+API de deteccao de email descartavel + risco lite, com `signals` explicaveis, rate-limit e docs prontas para RapidAPI.
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/Ver_repo-0B1220?style=for-the-badge&logo=github&logoColor=E6F7FF)](https://github.com/SavioCodes/MailSieve-repositorio)
+[![Live](https://img.shields.io/badge/API_online-00CED1?style=for-the-badge&logo=render&logoColor=0B1220)](https://mailsieve-repositorio.onrender.com)
+
+</div>
+
+| Feature | O q faz |
+|:--|:--|
+| disposable check | detecta dominio temporario |
+| risk lite | classifica em `low`, `medium`, `high` |
+| signals | explica os motivos da classificacao |
+| auth + rate limit | `x-api-key`, janela, burst e cooldown |
+| docs + openapi | contrato pronto para publicacao |
+| deploy | rodando em URL publica |
+
+---
+
 ## Minha jornada
 
 | Ano | O q rolou |
