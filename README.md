@@ -38,14 +38,13 @@ PALETA (pensada):
 
 <div align="center">
   <br/>
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00CED1&center=true&vCenter=true&width=720&lines=👋+eae%2C+sou+o+S%C3%A1vio+(SavioCodes);💻+dev+desde+os+10%2C+sem+parar+mt;⚛️+React+%2F+Next.js+no+dia+a+dia;🐍+Python+pra+automatizar+td;🤖+curto+AI+%2B+automacao+(sem+enrolacao);🚀+shipando+coisas+na+ra%C3%A7a"
-      alt="Typing SVG"
-    />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00CED1&center=true&vCenter=true&width=720&lines=%F0%9F%91%8B+eae%2C+sou+o+S%C3%A1vio+(SavioCodes);%F0%9F%92%BB+dev+desde+os+10%2C+sem+parar+mt;%E2%9A%9B%EF%B8%8F+React+%2F+Next.js+no+dia+a+dia;%F0%9F%90%8D+Python+pra+automatizar+td;%F0%9F%A4%96+curto+AI+%2B+automacao+(sem+enrolacao);%F0%9F%9A%80+shipando+coisas+na+ra%C3%A7a&v=1"
+    alt="Typing SVG"
+  />
   <br/><br/>
 </div>
+
 
 <div align="center">
 
