@@ -101,9 +101,9 @@ PALETA (pensada):
 
 <div align="center">
 
-Comecei a programar com **10 anos** pq eu tava naquela: “mano… e se eu fizer meu próprio bagulho?”
-Virou rotina real 😂  
-Hoje eu curto **web**, **automação**, **bots** e umas paradas de **IA** (qnd faz sentido msm).
+Comecei a programar com **10 anos** pq eu queria testar umas ideias e ver se eu conseguia fazer as coisas funcionar de vdd.
+Daí virou rotina e eu n parei mais.  
+Hoje eu tô mais no **web**, **automação**, **bots** e umas paradas de **IA** (qnd faz sentido, sem forçar).
 
 </div>
 
