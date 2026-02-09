@@ -8,7 +8,7 @@
 <div align="center">
 
 ![followers](https://img.shields.io/github/followers/SavioCodes?style=for-the-badge&logo=github&color=1E90FF&labelColor=0B1220)
-![repos](https://img.shields.io/badge/Public_repos-12-00CED1?style=for-the-badge&logo=github&labelColor=0B1220)
+![repos](https://img.shields.io/badge/Public_repos-11-00CED1?style=for-the-badge&logo=github&labelColor=0B1220)
 ![idade](https://img.shields.io/badge/Idade-15-1E90FF?style=for-the-badge&logo=calendar&labelColor=0B1220)
 ![experiencia](https://img.shields.io/badge/Experiencia-~5_anos-00CED1?style=for-the-badge&logo=codefactor&labelColor=0B1220)
 
