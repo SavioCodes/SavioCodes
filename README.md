@@ -8,15 +8,15 @@
 <div align="center">
 
 ![followers](https://img.shields.io/github/followers/SavioCodes?style=for-the-badge&logo=github&color=1E90FF&labelColor=0B1220)
-![repos](https://img.shields.io/badge/Public_repos-11-00CED1?style=for-the-badge&logo=github&labelColor=0B1220)
-![idade](https://img.shields.io/badge/Idade-15-1E90FF?style=for-the-badge&logo=calendar&labelColor=0B1220)
-![experiencia](https://img.shields.io/badge/Experiencia-~5_anos-00CED1?style=for-the-badge&logo=codefactor&labelColor=0B1220)
+![public_repos](https://img.shields.io/badge/Public_repos-11-00CED1?style=for-the-badge&logo=github&labelColor=0B1220)
+![perfil](https://img.shields.io/badge/Perfil-Fullstack_Developer_em_evolucao-1E90FF?style=for-the-badge&logo=readme&labelColor=0B1220)
+![github_desde](https://img.shields.io/badge/GitHub_desde-2025--08--29-00CED1?style=for-the-badge&logo=calendar&labelColor=0B1220)
 
 </div>
 
 <div align="center">
 
-[Sobre](#sobre-mim) | [Experiencia](#experiencia-pratica) | [Projetos](#projetos-em-destaque) | [Stack](#stack-atual) | [Objetivos](#objetivos-2026) | [Contato](#contato)
+[Sobre](#sobre-mim) | [Experiencia](#experiencia-pratica) | [Destaques](#projetos-em-destaque) | [Mapa](#mapa-do-portfolio-notas-reais) | [Melhorias](#pontos-de-melhoria-verdadeiros) | [Contato](#contato)
 
 </div>
 
@@ -26,85 +26,89 @@
 
 Sou **Savio** (**SavioCodes**), desenvolvedor fullstack em evolucao.
 
-Comecei a programar cedo e hoje meu foco e transformar ideia em projeto real:
+Minha base hoje esta em:
 
-- apps web
-- automacao com scripts
-- bots e APIs
-- IA aplicada quando agrega valor
+- desenvolvimento web com foco em produto
+- APIs e automacao
+- projetos práticos em Python e TypeScript
 
-Meu estilo de trabalho:
-
-- codigo limpo e organizado
-- entrega pratica (projeto que roda de verdade)
-- evolucao constante por projeto
+Meu objetivo no GitHub e manter projetos reais, organizados e com evolucao constante.
 
 ---
 
 ## Experiencia pratica
 
-### 1) Produtos e APIs
-
-- construcao de API HTTP com validacao, seguranca basica e testes
-- organizacao de contratos e documentacao tecnica (`openapi`, docs de fluxo)
-
-### 2) Web apps fullstack
-
-- desenvolvimento com **Next.js + TypeScript**
-- uso de **Prisma + Supabase/Postgres**
-- integracao de pagamento (Mercado Pago) e automacoes de rotina
-
-### 3) Ferramentas desktop e automacao
-
-- utilitarios em Python para diagnostico e organizacao de arquivos
-- foco em produtividade e resolucao de problema real
-
-### 4) Projetos educacionais avancados
-
-- implementacao de blockchain do zero
-- implementacao de rede neural do zero
+| Area | Experiencia aplicada |
+|:--|:--|
+| APIs | construcao de APIs com validacao, seguranca basica, rate-limit e testes |
+| Web fullstack | apps com Next.js + TypeScript + Prisma + Supabase |
+| Bots | automacao para Discord com analytics e comandos |
+| Automacao local | scripts e ferramentas em Python para resolver problemas reais |
+| Projetos educacionais | implementacoes do zero (blockchain e rede neural) para consolidar fundamentos |
 
 ---
 
 ## Projetos em destaque
 
-| Projeto | Resumo | Stack |
-|:--|:--|:--|
-| [MailSieve-repositorio](https://github.com/SavioCodes/MailSieve-repositorio) | API para classificar email e detectar dominio descartavel com sinais explicaveis. | TypeScript, Express, Zod |
-| [GuildLens-bot](https://github.com/SavioCodes/GuildLens-bot) | Bot de analytics para comunidades Discord com comandos e relatorios. | JavaScript, discord.js, PostgreSQL |
-| [OnboardPulse](https://github.com/SavioCodes/OnboardPulse) | SaaS multi-tenant com onboarding, billing e automacoes. | Next.js, TypeScript, Prisma |
-| [BrasaForge](https://github.com/SavioCodes/BrasaForge) | Geracao de sites com painel e fluxos de IA. | Next.js, TypeScript, Supabase |
-| [OrganizadorArquivosInteligente](https://github.com/SavioCodes/OrganizadorArquivosInteligente) | Organizador de arquivos com regras e classificacao automatica. | Python |
-| [Consultor-de-hadware](https://github.com/SavioCodes/Consultor-de-hadware) | Diagnostico de hardware para Windows. | Python |
-| [blockchain-do-zero](https://github.com/SavioCodes/blockchain-do-zero) | Projeto educacional para estudar blockchain na pratica. | Python, Flask |
-| [rede-neural-do-zero](https://github.com/SavioCodes/rede-neural-do-zero) | Projeto educacional para entender deep learning na base. | Python, NumPy |
+| Projeto | O que entrega | Stack | Nivel atual |
+|:--|:--|:--|:--:|
+| [MailSieve-repositorio](https://github.com/SavioCodes/MailSieve-repositorio) | API para classificar email e detectar dominio descartavel com sinais explicaveis | TypeScript, Express, Zod | Alto |
+| [GuildLens-bot](https://github.com/SavioCodes/GuildLens-bot) | Bot de analytics para comunidades Discord | JavaScript, discord.js, PostgreSQL | Alto |
+| [OnboardPulse](https://github.com/SavioCodes/OnboardPulse) | SaaS multi-tenant com onboarding e billing | Next.js, TypeScript, Prisma | Alto |
+| [BrasaForge](https://github.com/SavioCodes/BrasaForge) | Geracao de sites com fluxo de produto | Next.js, TypeScript, Supabase | Medio/Alto |
+| [blockchain-do-zero](https://github.com/SavioCodes/blockchain-do-zero) | Projeto educacional com API e CLI | Python, Flask | Medio |
+| [rede-neural-do-zero](https://github.com/SavioCodes/rede-neural-do-zero) | Projeto educacional de ML do zero | Python, NumPy | Medio |
 
 ---
 
-## Stack atual
+## Mapa do portfolio (notas reais)
 
-<div align="center">
+### Criterio da nota (0 a 5)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0B1220)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=next.js&logoColor=E6F7FF)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-0B1220?style=for-the-badge&logo=express&logoColor=E6F7FF)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=0B1220)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Cada repositorio recebe 1 ponto por item:
 
-</div>
+- `README.md`
+- `LICENSE`
+- `tests/`
+- documentacao tecnica (`docs/` ou documentos tecnicos dedicados)
+- CI (`.github/workflows`)
+
+### Tabela completa
+
+| Repositorio | README | LICENSE | TESTS | DOCS | CI | Nota |
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|
+| [MailSieve-repositorio](https://github.com/SavioCodes/MailSieve-repositorio) | Sim | Sim | Sim | Sim | Sim | **5/5** |
+| [GuildLens-bot](https://github.com/SavioCodes/GuildLens-bot) | Sim | Sim | Sim | Sim | Sim | **5/5** |
+| [OnboardPulse](https://github.com/SavioCodes/OnboardPulse) | Sim | Sim | Sim | Sim | Sim | **5/5** |
+| [BrasaForge](https://github.com/SavioCodes/BrasaForge) | Sim | Sim | Sim | Nao | Sim | **4/5** |
+| [blockchain-do-zero](https://github.com/SavioCodes/blockchain-do-zero) | Sim | Sim | Sim | Sim | Nao | **4/5** |
+| [rede-neural-do-zero](https://github.com/SavioCodes/rede-neural-do-zero) | Sim | Sim | Sim | Sim | Nao | **4/5** |
+| [Ensinando-JavaScript](https://github.com/SavioCodes/Ensinando-JavaScript) | Sim | Sim | Nao | Sim | Nao | **3/5** |
+| [Consultor-de-hadware](https://github.com/SavioCodes/Consultor-de-hadware) | Sim | Sim | Nao | Nao | Nao | **2/5** |
+| [Explicando-Rede-Neural](https://github.com/SavioCodes/Explicando-Rede-Neural) | Sim | Sim | Nao | Nao | Nao | **2/5** |
+| [OrganizadorArquivosInteligente](https://github.com/SavioCodes/OrganizadorArquivosInteligente) | Sim | Sim | Nao | Nao | Nao | **2/5** |
+| [SavioCodes](https://github.com/SavioCodes/SavioCodes) | Sim | Nao | Nao | Nao | Nao | **1/5** |
+
+---
+
+## Pontos de melhoria verdadeiros
+
+| Prioridade | Melhoria | Repos impactados | Resultado profissional esperado |
+|:--|:--|:--|:--|
+| Alta | Adicionar CI nos projetos Python educacionais e utilitarios | `blockchain-do-zero`, `rede-neural-do-zero`, `Consultor-de-hadware`, `OrganizadorArquivosInteligente` | padrao unico de qualidade e validacao automatica |
+| Alta | Criar testes basicos nos repos sem suite | `Consultor-de-hadware`, `OrganizadorArquivosInteligente`, `Ensinando-JavaScript` | mais confianca para evoluir sem quebrar |
+| Media | Melhorar documentacao tecnica onde falta pasta `docs/` | `BrasaForge`, `Consultor-de-hadware`, `OrganizadorArquivosInteligente` | onboarding mais rapido para recrutador/dev |
+| Media | Padronizar templates de README (estrutura fixa: objetivo, setup, uso, roadmap) | todos os repos publicos | portfolio mais consistente visualmente |
+| Media | Garantir links publicos de deploy so quando estaveis | repos com demos publicas | evita link quebrado e melhora percepcao profissional |
+| Baixa | Organizar pin dos melhores repos no perfil | perfil `SavioCodes` | destaque imediato dos projetos mais fortes |
 
 ---
 
 ## Objetivos 2026
 
-1. Publicar mais projetos com deploy estavel e documentacao forte.
-2. Padronizar CI e qualidade de codigo em todos os repos principais.
-3. Evoluir portfolio para nivel produto (mais testes, observabilidade e escalabilidade).
+1. Levar todos os repos principais para nota 4/5 ou 5/5.
+2. Manter padrao de CI + testes nos projetos novos.
+3. Publicar mais casos reais com documentacao clara de produto.
 
 ---
 
