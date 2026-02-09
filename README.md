@@ -10,60 +10,30 @@
 ║                                                                                                   ║
 ║                                  GITHUB PROFILE - SAVIOCODES                                      ║
 ║                                                                                                   ║
-║   DEV: Savio (SavioCodes) | 15y | ~5 anos codando | BR                                            ║
+║                            Portfolio auditado e organizado (2026-02-09)                            ║
 ║                                                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝
 -->
 
-<!--
-PALETA
-- Base: 0B1220
-- Azul: 1E90FF
-- Ciano: 00CED1
-- Texto claro: E6F7FF
--->
-
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,60:1E90FF,100:00CED1&height=200&section=header&text=SavioCodes&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=E6F7FF"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:1E90FF,100:00CED1&height=200&section=header&text=SavioCodes&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=E6F7FF"
     width="100%"
   />
 </div>
 
 <div align="center">
-  <br/>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00CED1&center=true&vCenter=true&width=860&lines=eae%2C+sou+o+Savio+(SavioCodes);dev+desde+os+10%2C+sem+parar;automacao%2C+web+e+projetos+que+rodam;perfil+com+dados+de+repos+validados+em+09%2F02%2F2026&v=11"
-    alt="Typing SVG"
-  />
-  <br/><br/>
+
+![followers](https://img.shields.io/github/followers/SavioCodes?style=for-the-badge&logo=github&color=1E90FF&labelColor=0B1220)
+![repos](https://img.shields.io/badge/Public_repos-12-00CED1?style=for-the-badge&logo=github&labelColor=0B1220)
+![audit](https://img.shields.io/badge/Auditado_em-2026--02--09-1E90FF?style=for-the-badge&logo=vercel&labelColor=0B1220)
+![bio](https://img.shields.io/badge/Bio-Fullstack_Developer_em_evolucao-00CED1?style=for-the-badge&logo=readme&labelColor=0B1220)
+
 </div>
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Online-00CED1?style=for-the-badge&logo=statuspage&logoColor=E6F7FF)
-![Repos](https://img.shields.io/badge/Repos_Publicos-12-1E90FF?style=for-the-badge&logo=github&logoColor=E6F7FF)
-![Followers](https://img.shields.io/badge/Followers-2-00CED1?style=for-the-badge&logo=github&logoColor=E6F7FF)
-![Local](https://img.shields.io/badge/Local-Brasil-1E90FF?style=for-the-badge&logo=google-maps&logoColor=E6F7FF)
-
-<br/>
-
-![Check](https://img.shields.io/badge/Ultima_validacao-2026--02--09-00CED1?style=for-the-badge&logo=vercel&logoColor=0B1220)
-![Conta](https://img.shields.io/badge/GitHub_desde-2025--08--29-1E90FF?style=for-the-badge&logo=github&logoColor=E6F7FF)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Sobre](https://img.shields.io/badge/Sobre-00CED1?style=flat-square)](#sobre-mim)
-[![Stack](https://img.shields.io/badge/Stack-1E90FF?style=flat-square)](#tech-stack)
-[![Projetos](https://img.shields.io/badge/Projetos-00CED1?style=flat-square)](#projetos-em-destaque)
-[![Repos](https://img.shields.io/badge/Repos-1E90FF?style=flat-square)](#repositorios-publicos-verificado)
-[![Stats](https://img.shields.io/badge/Stats-00CED1?style=flat-square)](#github-stats)
-[![FAQ](https://img.shields.io/badge/FAQ-1E90FF?style=flat-square)](#faq)
-[![Contato](https://img.shields.io/badge/Contato-00CED1?style=flat-square)](#contato)
+[Sobre](#sobre-mim) • [Auditoria](#auditoria-e-criterios) • [Destaques](#repositorios-em-destaque) • [Catalogo](#catalogo-completo) • [Notas](#notas-por-repositorio) • [Contato](#contato)
 
 </div>
 
@@ -71,301 +41,211 @@ PALETA
 
 ## Sobre mim
 
-Sou o **Savio** (**SavioCodes**). Tenho **15 anos** e programo desde os **10**.
+Sou **Savio** (**SavioCodes**).
 
-Curto mais projeto pratico: web, automacao, bots e IA quando faz sentido.
+- Nome publico no GitHub: `SavioCode`
+- Bio publica: `Fullstack Developer em evolucao`
+- Conta criada em: `2025-08-29`
+- Foco (auto descricao): web, automacao, bots e IA aplicada
 
-> Dados de repositorios e links desta pagina foram verificados em **09/02/2026** via GitHub API e READMEs dos repositorios.
+## Auditoria e criterios
 
----
+Este README foi revisado com pesquisa real de repositorios em **2026-02-09**, usando:
 
-## Tech Stack
+- GitHub API publica (conta e metadados)
+- clone local dos 12 repositorios publicos
+- leitura de README, estrutura de pastas, dependencias e scripts
 
-<div align="center">
+### Nota tecnica (0 a 5)
 
-### Linguagens (nos repos publicos)
+Cada repositorio recebe **1 ponto** por item:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0B1220)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| Linguagem | Qtde de repos | Exemplos |
-|:--|:--:|:--|
-| Python | 4 | `Consultor-de-hadware`, `OrganizadorArquivosInteligente`, `blockchain-do-zero`, `rede-neural-do-zero` |
-| TypeScript | 3 | `MailSieve-repositorio`, `OnboardPulse`, `BrasaForge` |
-| JavaScript | 1 | `GuildLens-bot` |
-| Sem linguagem detectada | 4 | `SavioCodes`, `Ensinando-JavaScript`, `Equipe-2-techers`, `Explicando-Rede-Neural` |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Frameworks e Plataformas (presentes nos projetos)
-
-![Next.js](https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=next.js&logoColor=E6F7FF)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-0B1220?style=for-the-badge&logo=express&logoColor=E6F7FF)
-![Flask](https://img.shields.io/badge/Flask-0B1220?style=for-the-badge&logo=flask&logoColor=E6F7FF)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=0B1220)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+- `README.md`
+- `LICENSE`
+- `tests/`
+- documentacao extra (`docs/` ou docs tecnicas dedicadas)
+- automacao de qualidade (`.github/` ou pipeline equivalente)
 
 ---
 
-## Projetos em destaque
+## Repositorios em destaque
 
-> Secao revisada com links reais e descricao baseada no README de cada repo.
+| Repositorio | Resumo verificado | Stack principal | Nota |
+|:--|:--|:--|:--:|
+| [MailSieve-repositorio](https://github.com/SavioCodes/MailSieve-repositorio) | API para classificar email de cadastro e detectar dominio descartavel; tem `openapi.yaml`, `src/`, `tests/`, `docs/`, `Dockerfile`, scripts de chave/rate-limit. | TypeScript, Express, Zod | **5/5** |
+| [GuildLens-bot](https://github.com/SavioCodes/GuildLens-bot) | Bot de analytics para Discord com docs tecnicas (`ARCHITECTURE.md`, `FLOWS.md`, `DEV_GUIDE.md`), `src/`, `tests/`, schema SQL. | JavaScript, discord.js, PostgreSQL | **4/5** |
+| [OnboardPulse](https://github.com/SavioCodes/OnboardPulse) | SaaS multi-tenant com onboarding, Prisma + Supabase, billing Mercado Pago e testes. | TypeScript, Next.js, Prisma | **3/5** |
+| [BrasaForge](https://github.com/SavioCodes/BrasaForge) | Gerador de sites com Next.js + Supabase, scripts de seed/worker e testes Vitest. | TypeScript, Next.js, Supabase | **3/5** |
+| [blockchain-do-zero](https://github.com/SavioCodes/blockchain-do-zero) | Projeto educacional de blockchain com `src/`, `tests/`, `docs/`, CLI e API Flask. | Python, Flask | **4/5** |
+| [rede-neural-do-zero](https://github.com/SavioCodes/rede-neural-do-zero) | Rede neural do zero com `src/`, `tests/`, `docs/`, `examples/` e dataset local. | Python, NumPy | **4/5** |
+| [OrganizadorArquivosInteligente](https://github.com/SavioCodes/OrganizadorArquivosInteligente) | Organizador de arquivos com configuracao, exemplos e guia longo no README. | Python | **3/5** |
 
-### 01) MailSieve
-API HTTP para detectar e-mail descartavel e classificar risco lite com `signals` explicaveis.
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/Ver_repo-0B1220?style=for-the-badge&logo=github&logoColor=E6F7FF)](https://github.com/SavioCodes/MailSieve-repositorio)
-[![Stars](https://img.shields.io/github/stars/SavioCodes/MailSieve-repositorio?style=for-the-badge&color=00CED1&logo=github)](https://github.com/SavioCodes/MailSieve-repositorio/stargazers)
-
-</div>
-
-| Feature | O que faz |
-|:--|:--|
-| endpoints publicos | `GET /v1/health`, `POST /v1/generate`, `POST /v1/batch` |
-| disposable check | detecta dominio descartavel |
-| risk lite | classifica risco com `signals` |
-| seguranca | uso de `x-api-key` + rate limit |
-| docs | contrato OpenAPI no repo |
-
-> Nota: o link publico `mailsieve-repositorio.onrender.com` estava `404` em 09/02/2026, por isso nao esta listado como "live".
+> Nota importante: o link antigo `mailsieve-repositorio.onrender.com` respondeu `404` na verificacao de 2026-02-09.
 
 ---
 
-### 02) GuildLens-bot
-Bot de analytics para comunidades Discord.
+## Catalogo completo
 
-<div align="center">
+| Repositorio | Tipo | Ultimo commit | Nota | Situacao atual |
+|:--|:--|:--:|:--:|:--|
+| [SavioCodes](https://github.com/SavioCodes/SavioCodes) | Profile README | 2026-02-09 | 1/5 | Repositorio de apresentacao do perfil |
+| [MailSieve-repositorio](https://github.com/SavioCodes/MailSieve-repositorio) | Produto/API | 2026-02-08 | 5/5 | Mais completo em estrutura tecnica |
+| [GuildLens-bot](https://github.com/SavioCodes/GuildLens-bot) | Produto/Bot | 2025-12-12 | 4/5 | Boa base com docs tecnicas e testes |
+| [OnboardPulse](https://github.com/SavioCodes/OnboardPulse) | Produto/SaaS | 2025-11-22 | 3/5 | Stack robusta, sem licenca no root |
+| [BrasaForge](https://github.com/SavioCodes/BrasaForge) | Produto/SaaS | 2025-10-18 | 3/5 | Projeto estruturado, falta licenca/CI |
+| [Ensinando-JavaScript](https://github.com/SavioCodes/Ensinando-JavaScript) | Educacional | 2025-10-05 | 3/5 | Conteudo didatico em `docs/` e `examples/` |
+| [OrganizadorArquivosInteligente](https://github.com/SavioCodes/OrganizadorArquivosInteligente) | Ferramenta | 2025-09-29 | 3/5 | Boa documentacao, sem testes automatizados |
+| [rede-neural-do-zero](https://github.com/SavioCodes/rede-neural-do-zero) | Educacional/IA | 2025-09-29 | 4/5 | Estrutura limpa com docs e testes |
+| [blockchain-do-zero](https://github.com/SavioCodes/blockchain-do-zero) | Educacional | 2025-09-28 | 4/5 | Projeto de estudo bem organizado |
+| [Equipe-2-techers](https://github.com/SavioCodes/Equipe-2-techers) | Documentacao de equipe | 2025-09-27 | 1/5* | Planejamento NASA Space Apps em varios `.md` |
+| [Explicando-Rede-Neural](https://github.com/SavioCodes/Explicando-Rede-Neural) | Artigo tecnico | 2025-09-27 | 2/5 | Conteudo textual (README longo) |
+| [Consultor-de-hadware](https://github.com/SavioCodes/Consultor-de-hadware) | Ferramenta desktop | 2025-09-14 | 2/5 | Script unico Python + README + LICENSE |
 
-[![Repo](https://img.shields.io/badge/Ver_repo-0B1220?style=for-the-badge&logo=github&logoColor=E6F7FF)](https://github.com/SavioCodes/GuildLens-bot)
-[![Stars](https://img.shields.io/github/stars/SavioCodes/GuildLens-bot?style=for-the-badge&color=1E90FF&logo=github)](https://github.com/SavioCodes/GuildLens-bot/stargazers)
-
-</div>
-
-| Feature | O que rola |
-|:--|:--|
-| health score | nota 0-100 da saude da comunidade |
-| insights | horarios de pico e canais ativos |
-| leaderboard | ranking de membros |
-| guardian automod | moderacao automatica |
-| exportacao | JSON/CSV (plano Growth) |
-
----
-
-### 03) OnboardPulse
-SaaS de onboarding multi-tenant com Next.js + TypeScript + Prisma + Supabase.
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/Ver_repo-0B1220?style=for-the-badge&logo=github&logoColor=E6F7FF)](https://github.com/SavioCodes/OnboardPulse)
-[![Stars](https://img.shields.io/github/stars/SavioCodes/OnboardPulse?style=for-the-badge&color=00CED1&logo=github)](https://github.com/SavioCodes/OnboardPulse/stargazers)
-
-</div>
-
-| Feature | O que faz |
-|:--|:--|
-| arquitetura | app multi-tenant com App Router |
-| dados | Prisma + Supabase Postgres |
-| IA | integracao Gemini com controle de custo |
-| billing | Mercado Pago |
-| storage | local ou S3 compativel |
+\* `Equipe-2-techers`: nota baixa no padrao de software, mas bom como repositorio documental.
 
 ---
 
-### 04) BrasaForge
-Gerador de sites (Next.js + Supabase) a partir de prompts em portugues.
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/Ver_repo-0B1220?style=for-the-badge&logo=github&logoColor=E6F7FF)](https://github.com/SavioCodes/BrasaForge)
-[![Stars](https://img.shields.io/github/stars/SavioCodes/BrasaForge?style=for-the-badge&color=1E90FF&logo=github)](https://github.com/SavioCodes/BrasaForge/stargazers)
-
-</div>
-
-| Feature | O que faz |
-|:--|:--|
-| geracao | cria sites completos por prompt |
-| stack | Next.js + Supabase |
-| integracoes IA | OpenAI, Anthropic e Gemini |
-| fila | worker para processar jobs |
-| testes | suite com Vitest |
-
----
-
-### 05) OrganizadorArquivosInteligente
-Automacao para organizacao de arquivos com categorias e duplicatas.
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/Ver_repo-0B1220?style=for-the-badge&logo=github&logoColor=E6F7FF)](https://github.com/SavioCodes/OrganizadorArquivosInteligente)
-[![Stars](https://img.shields.io/github/stars/SavioCodes/OrganizadorArquivosInteligente?style=for-the-badge&color=00CED1&logo=github)](https://github.com/SavioCodes/OrganizadorArquivosInteligente/stargazers)
-
-</div>
-
-| Feature | O que faz |
-|:--|:--|
-| organizacao | por tipo/data com estrutura cronologica |
-| duplicatas | deteccao por hash MD5 |
-| performance | processamento paralelo (ThreadPoolExecutor) |
-| configuracao | JSON customizavel |
-| relatorios | JSON + logs estruturados |
-
----
-
-### 06) blockchain-do-zero
-Implementacao educacional de blockchain em Python.
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/Ver_repo-0B1220?style=for-the-badge&logo=github&logoColor=E6F7FF)](https://github.com/SavioCodes/blockchain-do-zero)
-[![Stars](https://img.shields.io/github/stars/SavioCodes/blockchain-do-zero?style=for-the-badge&color=1E90FF&logo=github)](https://github.com/SavioCodes/blockchain-do-zero/stargazers)
-
-</div>
-
-| Feature | O que tem |
-|:--|:--|
-| PoW | algoritmo Proof of Work configuravel |
-| ledger | blocos, transacoes e saldos |
-| validacao | verificacao da cadeia |
-| API | REST em Flask |
-| testes | cobertura com pytest |
-
----
-
-### 07) Consultor-de-hadware
-Diagnostico de hardware para Windows 10/11.
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/Ver_repo-0B1220?style=for-the-badge&logo=github&logoColor=E6F7FF)](https://github.com/SavioCodes/Consultor-de-hadware)
-[![Stars](https://img.shields.io/github/stars/SavioCodes/Consultor-de-hadware?style=for-the-badge&color=00CED1&logo=github)](https://github.com/SavioCodes/Consultor-de-hadware/stargazers)
-
-</div>
-
-| Feature | O que faz |
-|:--|:--|
-| diagnostico | CPU, GPU, RAM, armazenamento e sistema |
-| monitoramento | dados em tempo real e alertas |
-| recomendacoes | acoes para saude do sistema |
-| exportacao | TXT, HTML, CSV e logs |
-
----
-
-## Repositorios publicos (verificado)
-
-| Repositorio | Linguagem | Stars | Ultimo push (UTC) |
-|:--|:--:|:--:|:--:|
-| [SavioCodes](https://github.com/SavioCodes/SavioCodes) | - | 0 | 2026-02-08 |
-| [MailSieve-repositorio](https://github.com/SavioCodes/MailSieve-repositorio) | TypeScript | 0 | 2026-02-08 |
-| [GuildLens-bot](https://github.com/SavioCodes/GuildLens-bot) | JavaScript | 0 | 2025-12-12 |
-| [OnboardPulse](https://github.com/SavioCodes/OnboardPulse) | TypeScript | 0 | 2025-11-22 |
-| [BrasaForge](https://github.com/SavioCodes/BrasaForge) | TypeScript | 0 | 2025-10-18 |
-| [Ensinando-JavaScript](https://github.com/SavioCodes/Ensinando-JavaScript) | - | 0 | 2025-10-05 |
-| [OrganizadorArquivosInteligente](https://github.com/SavioCodes/OrganizadorArquivosInteligente) | Python | 0 | 2025-09-29 |
-| [rede-neural-do-zero](https://github.com/SavioCodes/rede-neural-do-zero) | Python | 0 | 2025-09-29 |
-| [blockchain-do-zero](https://github.com/SavioCodes/blockchain-do-zero) | Python | 0 | 2025-09-28 |
-| [Equipe-2-techers](https://github.com/SavioCodes/Equipe-2-techers) | - | 1 | 2025-09-27 |
-| [Explicando-Rede-Neural](https://github.com/SavioCodes/Explicando-Rede-Neural) | - | 0 | 2025-09-27 |
-| [Consultor-de-hadware](https://github.com/SavioCodes/Consultor-de-hadware) | Python | 0 | 2025-09-14 |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=SavioCodes&theme=tokyo-night&hide_border=true&area=true"
-  width="100%"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| Metrica | Valor |
-|:--|:--|
-| user | SavioCodes |
-| nome publico | SavioCode |
-| github desde | 2025-08-29 |
-| repos publicos | 12 |
-| followers | 2 |
-| following | 0 |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Top langs (repos publicos)
-
-| Linguagem | Qtde |
-|:--:|:--:|
-| Python | 4 |
-| TypeScript | 3 |
-| JavaScript | 1 |
-| Sem linguagem detectada | 4 |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Resumo rapido
-
-| Item | Valor |
-|:--|:--|
-| repos em destaque no README | 7 |
-| repos com mais stars | `Equipe-2-techers` (1) |
-| ultimo repo atualizado | `SavioCodes` e `MailSieve-repositorio` (2026-02-08) |
-
-</div>
-
----
-
-## FAQ
+## Notas por repositorio
 
 <details>
-<summary><strong>As infos de repos e stats aqui estao corretas?</strong></summary>
+<summary><strong>MailSieve-repositorio</strong></summary>
 
-Sim. Foram checadas em **09/02/2026** na API publica do GitHub.
+- Evidencias: `src/`, `tests/`, `docs/`, `.github/`, `openapi.yaml`, `Dockerfile`, `rapidapi-pack/`.
+- Scripts: `build`, `dev`, `test`, `verify`, `keys:create`, `keys:rotate`.
+- Dependencias principais: `express`, `helmet`, `cors`, `zod`, `pino`.
+- Nota: **5/5** (repositorio mais completo da conta hoje).
 
 </details>
 
 <details>
-<summary><strong>Por que o link "API online" do MailSieve saiu?</strong></summary>
+<summary><strong>GuildLens-bot</strong></summary>
 
-Porque o endpoint `mailsieve-repositorio.onrender.com` retornou **404** na verificacao.
+- Evidencias: `src/`, `tests/`, `.github/`, `schema.sql`, docs `ARCHITECTURE.md`, `FLOWS.md`, `DEV_GUIDE.md`.
+- Scripts: `start`, `dev`, `test`, `test:coverage`, `deploy-commands`.
+- Dependencias principais: `discord.js`, `pg`, `dotenv`.
+- Nota: **4/5**.
 
 </details>
 
 <details>
-<summary><strong>Posso mudar o estilo sem perder os dados corretos?</strong></summary>
+<summary><strong>OnboardPulse</strong></summary>
 
-Pode. O importante e manter links, nomes de repos e datas alinhados com a API.
+- Evidencias: `app/`, `components/`, `prisma/`, `tests/`, `docs/`.
+- Stack: Next.js + TypeScript + Prisma + Supabase + Mercado Pago.
+- Scripts: `dev`, `build`, `test`, `prisma:migrate`, `prisma:seed`.
+- Nota: **3/5**.
 
 </details>
+
+<details>
+<summary><strong>BrasaForge</strong></summary>
+
+- Evidencias: `app/`, `components/`, `lib/`, `sql/`, `tests/`, `scripts/`.
+- Stack: Next.js + Supabase + Redis + providers de IA.
+- Scripts: `dev`, `build`, `test`, `test:e2e`, `seed`.
+- Nota: **3/5**.
+
+</details>
+
+<details>
+<summary><strong>blockchain-do-zero</strong></summary>
+
+- Evidencias: `src/`, `tests/`, `docs/`, `run.py`, `blockchain_cli.py`.
+- Stack: Python + Flask + pytest.
+- Objetivo: estudo de blockchain com API e CLI.
+- Nota: **4/5**.
+
+</details>
+
+<details>
+<summary><strong>rede-neural-do-zero</strong></summary>
+
+- Evidencias: `src/`, `tests/`, `docs/`, `examples/`, `data/`.
+- Stack: Python + NumPy + matplotlib + pytest.
+- Objetivo: didatico, explicando rede neural sem frameworks pesados.
+- Nota: **4/5**.
+
+</details>
+
+<details>
+<summary><strong>OrganizadorArquivosInteligente</strong></summary>
+
+- Evidencias: `organizer.py`, `configs/`, `examples/`, `CHANGELOG.md`, `CONTRIBUTING.md`.
+- `requirements.txt` atual funciona mais como guia comentado de dependencias.
+- Projeto focado em organizacao automatica e estrutura de configuracao.
+- Nota: **3/5**.
+
+</details>
+
+<details>
+<summary><strong>Consultor-de-hadware</strong></summary>
+
+- Evidencias: `diagnostico_pc.py` + README detalhado + LICENSE.
+- Projeto monolitico (script unico), sem suite de testes versionada.
+- Bom para utilitario local no Windows.
+- Nota: **2/5**.
+
+</details>
+
+<details>
+<summary><strong>Ensinando-JavaScript</strong></summary>
+
+- Evidencias: `docs/` + `examples/` + LICENSE.
+- Repositorio educacional, com trilha de estudo progressiva.
+- Menos foco em aplicacao executavel, mais foco em conteudo.
+- Nota: **3/5**.
+
+</details>
+
+<details>
+<summary><strong>Explicando-Rede-Neural</strong></summary>
+
+- Evidencias: README longo + LICENSE.
+- Repositorio de explicacao/guia textual (sem codigo principal no root).
+- Bom para leitura; baixo escopo de engenharia.
+- Nota: **2/5**.
+
+</details>
+
+<details>
+<summary><strong>Equipe-2-techers</strong></summary>
+
+- Evidencias: 7 arquivos `.md` de planejamento de equipe (NASA Space Apps 2025).
+- Nao e um repo de software tradicional, e um repo documental de organizacao.
+- Para o formato atual, o ideal e adicionar um `README.md` explicando objetivo e contexto.
+- Nota: **1/5** no criterio de software; **alto valor documental**.
+
+</details>
+
+<details>
+<summary><strong>SavioCodes (este repositorio)</strong></summary>
+
+- Funcao: README de apresentacao do perfil.
+- Status: atualizado com auditoria completa.
+- Nota: **1/5** por ser intencionalmente um repositorio de perfil.
+
+</details>
+
+---
+
+## Pontos de melhoria (verdadeiros e acionaveis)
+
+1. Adicionar `LICENSE` em `OnboardPulse`, `BrasaForge` e `GuildLens-bot`.
+2. Criar `README.md` em `Equipe-2-techers` explicando que e repositorio documental.
+3. Padronizar CI (`.github/workflows`) nos projetos principais.
+4. Revisar links de deploy publico e remover qualquer URL fora do ar.
+5. Padronizar descricoes curtas dos repositorios no GitHub para melhorar clareza.
+
+---
+
+## GitHub stats
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SavioCodes&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+  />
+</div>
 
 ---
 
@@ -377,25 +257,9 @@ Pode. O importante e manter links, nomes de repos e datas alinhados com a API.
 
 </div>
 
-<br/>
-
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,60:1E90FF,100:00CED1&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:1E90FF,100:00CED1&height=120&section=footer"
     width="100%"
   />
-</div>
-
-<br/>
-
-<div align="center">
-
-![valeu](https://img.shields.io/badge/valeu_por_passar-00CED1?style=for-the-badge&logoColor=0B1220)
-![feito](https://img.shields.io/badge/dados_verificados-1E90FF?style=for-the-badge&logoColor=E6F7FF)
-
-<br/><br/>
-
-**© 2026 SavioCodes**  
-**KEEP CODING • KEEP LEARNING • KEEP GROWING**
-
 </div>
