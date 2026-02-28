@@ -1,0 +1,40 @@
+﻿<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SavioCodes banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b132b" />
+      <stop offset="50%" stop-color="#1c2541" />
+      <stop offset="100%" stop-color="#3a506b" />
+      <animate attributeName="x1" values="0;0.2;0" dur="10s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="1;0.8;1" dur="10s" repeatCount="indefinite" />
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5bc0be" stop-opacity="0" />
+      <stop offset="50%" stop-color="#5bc0be" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#5bc0be" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)" rx="18" />
+
+  <g opacity="0.35">
+    <circle cx="140" cy="70" r="26" fill="#5bc0be">
+      <animate attributeName="cy" values="70;86;70" dur="5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1080" cy="250" r="34" fill="#6fffe9">
+      <animate attributeName="cy" values="250;230;250" dur="6s" repeatCount="indefinite" />
+    </circle>
+    <rect x="940" y="64" width="120" height="120" rx="20" fill="#5bc0be" opacity="0.22" transform="rotate(12 1000 124)">
+      <animate attributeName="x" values="940;920;940" dur="8s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <g stroke="url(#line)" stroke-width="2">
+    <path d="M0 226 C220 174, 400 264, 620 214 C840 164, 1020 252, 1200 204" fill="none">
+      <animate attributeName="d" values="M0 226 C220 174, 400 264, 620 214 C840 164, 1020 252, 1200 204;M0 216 C220 194, 400 244, 620 224 C840 184, 1020 232, 1200 214;M0 226 C220 174, 400 264, 620 214 C840 164, 1020 252, 1200 204" dur="7s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <text x="72" y="135" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">SavioCodes</text>
+  <text x="72" y="178" fill="#c9f7f5" font-family="Segoe UI, Arial, sans-serif" font-size="24">Software Engineer | Backend, Fullstack, AI</text>
+  <text x="72" y="214" fill="#a3e6e3" font-family="Consolas, Menlo, monospace" font-size="18">building production-ready systems with clean engineering standards</text>
+</svg>
