@@ -50,13 +50,13 @@ I like systems where product work meets backend reliability: onboarding flows, i
 
 ## Writing / Notes
 
-- [Why case studies beat project galleries](https://skill-deploy-0zec2oswbv-codex-agent-deploys.vercel.app/writing/case-studies-beat-galleries)
-- [Applied AI needs budget edges](https://skill-deploy-0zec2oswbv-codex-agent-deploys.vercel.app/writing/ai-needs-budget-edges)
-- [Small SaaS for Brazil still deserves real ops](https://skill-deploy-0zec2oswbv-codex-agent-deploys.vercel.app/writing/brazilian-saas-needs-ops)
+- [Why case studies beat project galleries](https://saviocodes.github.io/saviofilho.dev/writing/case-studies-beat-galleries/)
+- [Applied AI needs budget edges](https://saviocodes.github.io/saviofilho.dev/writing/ai-needs-budget-edges/)
+- [Small SaaS for Brazil still deserves real ops](https://saviocodes.github.io/saviofilho.dev/writing/brazilian-saas-needs-ops/)
 
 ## Contact
 
-- Portfolio: [case studies and writing](https://skill-deploy-0zec2oswbv-codex-agent-deploys.vercel.app)
+- Portfolio: [case studies and writing](https://saviocodes.github.io/saviofilho.dev/)
 - LinkedIn: [linkedin.com/in/savio-filho-7a0212309](https://www.linkedin.com/in/savio-filho-7a0212309/)
 - Email: [codessavio@gmail.com](mailto:codessavio@gmail.com)
 - GitHub: [github.com/SavioCodes](https://github.com/SavioCodes)
