@@ -27,7 +27,7 @@ PT-BR: Tambem aberto a oportunidades no Brasil.
 | Project | Focus | Stack |
 |---|---|---|
 | [App-Nota10](https://github.com/SavioCodes/App-Nota10) | AI-assisted study platform with mobile/web + API backend | Expo, React Native, Express, tRPC, Drizzle |
-| [MailSieve-repositorio](https://github.com/SavioCodes/MailSieve-repositorio) | Email risk analysis API with OpenAPI contract and verification flow | Node.js, Express, TypeScript, OpenAPI |
+| [MailSieve](https://github.com/SavioCodes/MailSieve) | Email risk analysis API with OpenAPI contract and verification flow | Node.js, Express, TypeScript, OpenAPI |
 | [OnboardPulse](https://github.com/SavioCodes/OnboardPulse) | Multi-tenant SaaS onboarding product with billing and follow-up automation | Next.js, Prisma, PostgreSQL, Mercado Pago |
 | [rede-neural-do-zero](https://github.com/SavioCodes/rede-neural-do-zero) | Neural network implementation with reproducible evaluation pipeline | Python, NumPy, pytest |
 
