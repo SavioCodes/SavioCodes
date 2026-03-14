@@ -41,6 +41,7 @@ PT-BR: Tambem aberto a oportunidades no Brasil.
 
 ## Contact
 
+- Portfolio: [case studies and writing](https://skill-deploy-0zec2oswbv-codex-agent-deploys.vercel.app)
 - LinkedIn: [linkedin.com/in/savio-filho-7a0212309](https://www.linkedin.com/in/savio-filho-7a0212309/)
 - Email: [codessavio@gmail.com](mailto:codessavio@gmail.com)
 - GitHub: [github.com/SavioCodes](https://github.com/SavioCodes)
