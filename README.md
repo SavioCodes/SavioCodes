@@ -22,6 +22,15 @@ PT-BR: Tambem aberto a oportunidades no Brasil.
 - CI-first repository standards: lint, tests, build checks, and reusable engineering templates.
 - Clear technical writing: architecture notes, trade-offs, runbooks, and operational docs.
 
+## Currently Building
+
+- `QuoteFlow BR`: proposal and quoting engine for WhatsApp-first sales flows, with versioned offers, PDF generation, approvals, and audit trails.
+- `AcessoQR Public Core`: QR-based access control flows with offline validation, duplicate protection, and operational check-in safeguards.
+
+## What I Like Building
+
+I like systems where product work meets backend reliability: onboarding flows, internal operations, AI features with budget edges, and APIs that can be reasoned about under real constraints.
+
 ## Featured Projects
 
 | Project | Focus | Stack |
@@ -38,6 +47,12 @@ PT-BR: Tambem aberto a oportunidades no Brasil.
 - Developer experience (DX): simple setup, clear scripts, fast feedback loops.
 - Observability and reliability fundamentals from early project stages.
 - Security baseline: secrets hygiene, least-privilege setup, and safe defaults.
+
+## Writing / Notes
+
+- [Why case studies beat project galleries](https://skill-deploy-0zec2oswbv-codex-agent-deploys.vercel.app/writing/case-studies-beat-galleries)
+- [Applied AI needs budget edges](https://skill-deploy-0zec2oswbv-codex-agent-deploys.vercel.app/writing/ai-needs-budget-edges)
+- [Small SaaS for Brazil still deserves real ops](https://skill-deploy-0zec2oswbv-codex-agent-deploys.vercel.app/writing/brazilian-saas-needs-ops)
 
 ## Contact
 
