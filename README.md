@@ -1,52 +1,28 @@
-﻿<p align="center">
-  <img src="./assets/banner.svg" alt="SavioCodes banner" width="100%" />
-</p>
+# Savio Filho
 
-# Savio Filho | Software Engineer (Backend, Fullstack, AI)
+Software engineer focused on backend product systems, SaaS operations, and applied AI with explicit boundaries.
 
-I build production-oriented software with clean architecture, test coverage, and pragmatic delivery speed.
+PT-BR: aberto a oportunidades no Brasil e a trabalhos remotos com foco forte em backend.
 
-PT-BR: Tambem aberto a oportunidades no Brasil.
+## What I build
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+- Product systems with approval paths, billing states, queue-backed workflows, and operator-facing docs.
+- APIs that need contracts, verification steps, and reliable execution after launch.
+- Applied AI features with budget limits, audit trails, and deterministic fallbacks.
 
-## Highlights
+## Currently building
 
-- End-to-end product engineering: API design, data modeling, auth, billing, and deployment.
-- Strong backend focus with TypeScript/Node.js and Python for automation and AI workflows.
-- CI-first repository standards: lint, tests, build checks, and reusable engineering templates.
-- Clear technical writing: architecture notes, trade-offs, runbooks, and operational docs.
+- `QuoteFlow BR`: a quoting engine for WhatsApp-first sales with versioned proposals, approvals, PDF output, and audit history.
+- `AcessoQR Public Core`: operational tooling for QR-based access, offline validation, duplicate protection, and stronger field workflows.
 
-## Currently Building
+## Flagship repositories
 
-- `QuoteFlow BR`: proposal and quoting engine for WhatsApp-first sales flows, with versioned offers, PDF generation, approvals, and audit trails.
-- `AcessoQR Public Core`: QR-based access control flows with offline validation, duplicate protection, and operational check-in safeguards.
-
-## What I Like Building
-
-I like systems where product work meets backend reliability: onboarding flows, internal operations, AI features with budget edges, and APIs that can be reasoned about under real constraints.
-
-## Featured Projects
-
-| Project | Focus | Stack |
-|---|---|---|
-| [App-Nota10](https://github.com/SavioCodes/App-Nota10) | AI-assisted study platform with mobile/web + API backend | Expo, React Native, Express, tRPC, Drizzle |
-| [MailSieve](https://github.com/SavioCodes/MailSieve) | Email risk analysis API with OpenAPI contract and verification flow | Node.js, Express, TypeScript, OpenAPI |
-| [OnboardPulse](https://github.com/SavioCodes/OnboardPulse) | Multi-tenant SaaS onboarding product with billing and follow-up automation | Next.js, Prisma, PostgreSQL, Mercado Pago |
-| [rede-neural-do-zero](https://github.com/SavioCodes/rede-neural-do-zero) | Neural network implementation with reproducible evaluation pipeline | Python, NumPy, pytest |
-
-## What I Value
-
-- Engineering quality over hype: reproducibility, maintainability, and honest documentation.
-- Testing and CI as default, not optional.
-- Developer experience (DX): simple setup, clear scripts, fast feedback loops.
-- Observability and reliability fundamentals from early project stages.
-- Security baseline: secrets hygiene, least-privilege setup, and safe defaults.
+| Repository | Why it matters |
+| --- | --- |
+| [VOWGRID-API](https://github.com/SavioCodes/VOWGRID-API) | Trust layer between AI agents and real-world actions, with simulation, policy evaluation, approvals, receipts, and rollback visibility. |
+| [OnboardPulse](https://github.com/SavioCodes/OnboardPulse) | Multi-tenant SaaS onboarding product with tenant boundaries, billing flows, follow-up jobs, storage modes, and AI budget controls. |
+| [MailSieve](https://github.com/SavioCodes/MailSieve) | Lean product API with OpenAPI contract, key flow, verification scripts, and deploy-ready operational discipline. |
+| [rede-neural-do-zero](https://github.com/SavioCodes/rede-neural-do-zero) | Educational repo that still shows engineering rigor through deterministic evaluation, logs, tests, and reproducible outputs. |
 
 ## Writing / Notes
 
@@ -54,13 +30,14 @@ I like systems where product work meets backend reliability: onboarding flows, i
 - [Applied AI needs budget edges](https://saviocodes.github.io/saviofilho.dev/writing/ai-needs-budget-edges/)
 - [Small SaaS for Brazil still deserves real ops](https://saviocodes.github.io/saviofilho.dev/writing/brazilian-saas-needs-ops/)
 
+## How I like to work
+
+- I prefer systems that stay explainable under real constraints: money, auth, retries, auditability, and deployment friction.
+- I document trade-offs, failure modes, and setup paths because those details matter after the first build passes.
+- I care more about clear boundaries and believable operations than about shipping impressive-looking demos.
+
 ## Contact
 
-- Portfolio: [case studies and writing](https://saviocodes.github.io/saviofilho.dev/)
+- Portfolio: [saviocodes.github.io/saviofilho.dev](https://saviocodes.github.io/saviofilho.dev/)
 - LinkedIn: [linkedin.com/in/savio-filho-7a0212309](https://www.linkedin.com/in/savio-filho-7a0212309/)
 - Email: [codessavio@gmail.com](mailto:codessavio@gmail.com)
-- GitHub: [github.com/SavioCodes](https://github.com/SavioCodes)
-
-## Open to Work
-
-Open to Software Engineer roles (Backend, Fullstack, and Applied AI), including remote and hybrid opportunities.
