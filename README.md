@@ -26,9 +26,10 @@ PT-BR: aberto a oportunidades no Brasil e a trabalhos remotos com foco forte em 
 
 ## Writing / Notes
 
-- [Why case studies beat project galleries](https://saviocodes.github.io/saviofilho.dev/writing/case-studies-beat-galleries/)
-- [Applied AI needs budget edges](https://saviocodes.github.io/saviofilho.dev/writing/ai-needs-budget-edges/)
-- [Small SaaS for Brazil still deserves real ops](https://saviocodes.github.io/saviofilho.dev/writing/brazilian-saas-needs-ops/)
+- AI Guardrails: [Simulation before execution](https://saviocodes.github.io/saviofilho.dev/writing/simulation-before-execution/)
+- SaaS Operations: [Billing webhooks need replay discipline](https://saviocodes.github.io/saviofilho.dev/writing/billing-webhooks-need-replay-discipline/)
+- Backend Systems: [Contracts beat clever APIs](https://saviocodes.github.io/saviofilho.dev/writing/contracts-beat-clever-apis/)
+- All notes: [Writing index](https://saviocodes.github.io/saviofilho.dev/writing/)
 
 ## How I like to work
 
