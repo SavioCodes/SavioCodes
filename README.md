@@ -19,7 +19,7 @@ PT-BR: aberto a oportunidades no Brasil e a trabalhos remotos com foco forte em 
 
 | Repository | Why it matters |
 | --- | --- |
-| [VOWGRID-API](https://github.com/SavioCodes/VOWGRID-API) | Trust layer between AI agents and real-world actions, with simulation, policy evaluation, approvals, receipts, and rollback visibility. |
+| [VOWGRID] (Privado por um tempo indeterminado) (https://github.com/SavioCodes/VOWGRID) | Trust layer between AI agents and real-world actions, with simulation, policy evaluation, approvals, receipts, and rollback visibility. |
 | [OnboardPulse](https://github.com/SavioCodes/OnboardPulse) | Multi-tenant SaaS onboarding product with tenant boundaries, billing flows, follow-up jobs, storage modes, and AI budget controls. |
 | [MailSieve](https://github.com/SavioCodes/MailSieve) | Lean product API with OpenAPI contract, key flow, verification scripts, and deploy-ready operational discipline. |
 | [rede-neural-do-zero](https://github.com/SavioCodes/rede-neural-do-zero) | Educational repo that still shows engineering rigor through deterministic evaluation, logs, tests, and reproducible outputs. |
