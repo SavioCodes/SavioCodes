@@ -1,30 +1,30 @@
 # Savio Filho
 
-Software engineer focused on backend product systems, SaaS operations, and applied AI with clear operational boundaries.
+Software engineer building backend systems, operational SaaS, and applied AI with clear boundaries, reliable execution, and production-grade discipline.
 
 **PT-BR:** aberto a oportunidades no Brasil e a trabalhos remotos com foco forte em backend.
 
 ## What I build
 
-- Product systems with approval flows, billing states, queue-backed workflows, and operator-facing documentation.
-- APIs that require strong contracts, verification steps, and reliable execution after launch.
-- Applied AI features designed with budget limits, audit trails, and deterministic fallbacks.
+- Backend product systems with approval flows, billing states, queue-backed workflows, and operator-facing documentation.
+- APIs designed around strong contracts, verification paths, and dependable post-launch behavior.
+- Applied AI features with explicit cost controls, auditability, and deterministic fallbacks when reliability matters more than hype.
 
-## Currently building
+## Current focus
 
-- **QuoteFlow BR** — a quoting engine for WhatsApp-first sales with versioned proposals, approvals, PDF generation, and audit history.
-- **AcessoQR Public Core** — operational tooling for QR-based access with offline validation, duplicate protection, and stronger field workflows.
+- **QuoteFlow BR** — quoting infrastructure for WhatsApp-first sales, with versioned proposals, approval flows, PDF generation, and audit history.
+- **AcessoQR Public Core** — QR-based access operations with offline validation, duplicate protection, and stronger real-world field workflows.
 
-## Flagship repositories
+## Selected repositories
 
 | Repository | Why it matters |
 | --- | --- |
-| **VOWGRID** *(private for now)* | Trust layer between AI agents and real-world actions, with simulation, policy evaluation, approvals, receipts, and rollback visibility. |
-| [OnboardPulse](https://github.com/SavioCodes/OnboardPulse) | Multi-tenant SaaS onboarding product with tenant boundaries, billing flows, follow-up jobs, storage modes, and AI budget controls. |
-| [MailSieve](https://github.com/SavioCodes/MailSieve) | Lean product API with OpenAPI contract, key flows, verification scripts, and deploy-ready operational discipline. |
-| [rede-neural-do-zero](https://github.com/SavioCodes/rede-neural-do-zero) | Educational repository that still reflects engineering rigor through deterministic evaluation, logs, tests, and reproducible outputs. |
+| **VOWGRID** *(private for now)* | A trust layer between AI agents and real-world actions, built around simulation, policy evaluation, approvals, receipts, and rollback visibility. |
+| [OnboardPulse](https://github.com/SavioCodes/OnboardPulse) | A multi-tenant SaaS onboarding system with tenant isolation, billing flows, follow-up jobs, storage modes, and AI budget controls. |
+| [MailSieve](https://github.com/SavioCodes/MailSieve) | A lean product API with OpenAPI contract discipline, key operational flows, verification scripts, and deploy-ready structure. |
+| [rede-neural-do-zero](https://github.com/SavioCodes/rede-neural-do-zero) | An educational project that still emphasizes engineering rigor through deterministic evaluation, logs, tests, and reproducible outputs. |
 
-## Writing / Notes
+## Writing
 
 - AI Guardrails: [Simulation before execution](https://saviocodes.github.io/saviofilho.dev/writing/simulation-before-execution/)
 - SaaS Operations: [Billing webhooks need replay discipline](https://saviocodes.github.io/saviofilho.dev/writing/billing-webhooks-need-replay-discipline/)
@@ -33,9 +33,9 @@ Software engineer focused on backend product systems, SaaS operations, and appli
 
 ## How I work
 
-- I build systems that remain explainable under real constraints: money, auth, retries, auditability, and deployment friction.
-- I document trade-offs, failure modes, and setup paths because those details matter after the first version ships.
-- I care more about clear boundaries and believable operations than about shipping impressive-looking demos.
+- I prefer systems that remain explainable under real constraints: money, auth, retries, auditability, and deployment friction.
+- I document trade-offs, failure modes, and setup paths because operational clarity matters after the first version ships.
+- I care more about trustworthy behavior and clear boundaries than about impressive demos that do not survive real use.
 
 ## Contact
 
