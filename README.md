@@ -12,17 +12,23 @@ Software engineer building backend systems, operational SaaS, and applied AI wit
 
 ## Current focus
 
-- **QuoteFlow BR** — quoting infrastructure for WhatsApp-first sales, with versioned proposals, approval flows, PDF generation, and audit history.
-- **AcessoQR Public Core** — QR-based access operations with offline validation, duplicate protection, and stronger real-world field workflows.
+- **QuoteFlow BR** - quoting infrastructure for WhatsApp-first sales, with versioned proposals, approval flows, PDF generation, and audit history.
+- **AcessoQR Public Core** - QR-based access operations with offline validation, duplicate protection, and stronger real-world field workflows.
 
-## Selected repositories
+## Public flagship repositories
 
 | Repository | Why it matters |
 | --- | --- |
-| **VOWGRID** *(private for now)* | A trust layer between AI agents and real-world actions, built around simulation, policy evaluation, approvals, receipts, and rollback visibility. |
 | [OnboardPulse](https://github.com/SavioCodes/OnboardPulse) | A multi-tenant SaaS onboarding system with tenant isolation, billing flows, follow-up jobs, storage modes, and AI budget controls. |
 | [MailSieve](https://github.com/SavioCodes/MailSieve) | A lean product API with OpenAPI contract discipline, key operational flows, verification scripts, and deploy-ready structure. |
 | [rede-neural-do-zero](https://github.com/SavioCodes/rede-neural-do-zero) | An educational project that still emphasizes engineering rigor through deterministic evaluation, logs, tests, and reproducible outputs. |
+| [saviofilho.dev](https://github.com/SavioCodes/saviofilho.dev) | Bilingual portfolio tying case studies, writing, and resume context back to the GitHub surface. |
+
+## Private case studies
+
+- `VOWGRID` - a trust layer around agent actions, with simulation, policy evaluation, approvals, receipts, and rollback visibility.
+- `AcessoQR` - structured accessibility audits, weighted evidence capture, moderation, and QR-backed public certification.
+- `ORCEI` - mobile-first quote workflows with public share links, WhatsApp delivery, and narrow AI assistance inside a real business flow.
 
 ## Writing
 
