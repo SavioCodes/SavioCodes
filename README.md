@@ -1,55 +1,130 @@
-# Savio Filho
-
-Software engineer building backend systems, operational SaaS, and applied AI with clear boundaries, reliable execution, and production-grade discipline.
-
-**PT-BR:** aberto a oportunidades no Brasil e a trabalhos remotos com foco forte em backend.
-
-## Start here
-
-- Portfolio: [saviocodes.github.io/saviofilho.dev](https://saviocodes.github.io/saviofilho.dev/)
-- Work index: [case studies](https://saviocodes.github.io/saviofilho.dev/work/)
-- Writing index: [notes and field reports](https://saviocodes.github.io/saviofilho.dev/writing/)
-- Resume: [profile summary](https://saviocodes.github.io/saviofilho.dev/resume/)
-
-## What I build
-
-- Backend product systems with approval flows, billing states, queue-backed workflows, and operator-facing documentation.
-- APIs designed around strong contracts, verification paths, and dependable post-launch behavior.
-- Applied AI features with explicit cost controls, auditability, and deterministic fallbacks when reliability matters more than hype.
-
-## Public GitHub surface
-
-- [OnboardPulse](https://github.com/SavioCodes/OnboardPulse) - multi-tenant onboarding SaaS with tenant isolation, billing flows, follow-up jobs, storage modes, and AI budget controls.
-- [MailSieve](https://github.com/SavioCodes/MailSieve) - lean signup-risk API with OpenAPI contract discipline, verification scripts, and deploy-ready structure.
-- [rede-neural-do-zero](https://github.com/SavioCodes/rede-neural-do-zero) - educational repo with deterministic evaluation, logs, tests, and reproducible outputs.
-- [saviofilho.dev](https://github.com/SavioCodes/saviofilho.dev) - bilingual editorial portfolio that ties case studies, writing, and resume context back to GitHub.
-
-## Private case studies
-
-- `VOWGRID` - trust layer around agent actions, with simulation, policy evaluation, approvals, receipts, and rollback visibility.
-- `AcessoQR` - structured accessibility audits, weighted evidence capture, moderation, and QR-backed public certification.
-- `ORCEI` - mobile-first quote workflows with public share links, WhatsApp delivery, and narrow AI assistance inside a real business flow.
-
-## Current focus
-
-- `QuoteFlow BR` - quoting infrastructure for WhatsApp-first sales, with versioned proposals, approval flows, PDF generation, and audit history.
-- `AcessoQR Public Core` - QR-based access operations with offline validation, duplicate protection, and stronger real-world field workflows.
-
-## Writing tracks
-
-- AI Guardrails: [Simulation before execution](https://saviocodes.github.io/saviofilho.dev/writing/simulation-before-execution/)
-- SaaS Operations: [Billing webhooks need replay discipline](https://saviocodes.github.io/saviofilho.dev/writing/billing-webhooks-need-replay-discipline/)
-- Backend Systems: [Contracts beat clever APIs](https://saviocodes.github.io/saviofilho.dev/writing/contracts-beat-clever-apis/)
-- All notes: [writing index](https://saviocodes.github.io/saviofilho.dev/writing/)
-
-## How I work
-
-- I prefer systems that remain explainable under real constraints: money, auth, retries, auditability, and deployment friction.
-- I document trade-offs, failure modes, and setup paths because operational clarity matters after the first version ships.
-- I care more about trustworthy behavior and clear boundaries than about impressive demos that do not survive real use.
-
-## Contact
-
-- GitHub: [github.com/SavioCodes](https://github.com/SavioCodes)
-- LinkedIn: [linkedin.com/in/savio-filho-7a0212309](https://www.linkedin.com/in/savio-filho-7a0212309/)
-- Email: [codessavio@gmail.com](mailto:codessavio@gmail.com)
+# ⚡ Savio Filho
+### **Backend Product Engineer** • SaaS Architecture, Core Systems, & Applied AI
+[![Location](https://img.shields.io/badge/Location-Brazil-009739?style=flat-square&logo=google-maps&logoColor=white)](#)
+[![Work Mode](https://img.shields.io/badge/Work-Remote%20%2F%20Hybrid-002776?style=flat-square)](#)
+[![Specialty](https://img.shields.io/badge/Specialty-Backend%20Product%20Systems-orange?style=flat-square)](#)
+[![English](https://img.shields.io/badge/English-Technical%20%2F%20Professional-blue?style=flat-square)](#)
+[![Português](https://img.shields.io/badge/Portugu%C3%AAs-Nativo-red?style=flat-square)](#)
+---
+I build backend product systems, operational SaaS, and applied AI workflows with clear architectural boundaries, reliable execution paths, and production-grade discipline. 
+> **PT-BR:** Engenheiro de software focado em sistemas de backend, SaaS operacionais e IA aplicada. Disponível para oportunidades de trabalho remoto ou híbrido no Brasil e exterior com foco em backend.
+---
+## 🚀 Navigation & Links
+|
+ 🔗 Resource 
+|
+ 🔍 Purpose 
+|
+|
+:---
+|
+:---
+|
+|
+**
+[
+saviofilho.dev
+](
+https://saviocodes.github.io/saviofilho.dev/
+)
+**
+|
+ Core Editorial Portfolio 
+|
+|
+**
+[
+Case Studies
+](
+https://saviocodes.github.io/saviofilho.dev/work/
+)
+**
+|
+ Deep-dives into systems architecture 
+|
+|
+**
+[
+Notes & Field Reports
+](
+https://saviocodes.github.io/saviofilho.dev/writing/
+)
+**
+|
+ Technical write-ups and posts 
+|
+|
+**
+[
+Resume Profile
+](
+https://saviocodes.github.io/saviofilho.dev/resume/
+)
+**
+|
+ Professional summary and role fit 
+|
+---
+## 🛠️ Core Capabilities
+- **Robust Backend Product Systems:** End-to-end implementation of multi-tenant architectures, secure approval flows, transactional billing states, queue-backed background workflows, and self-documenting APIs.
+- **Contract-First APIs:** Designing robust API interfaces using strong OpenAPI contracts, rigid schema verification paths, and dependable, backwards-compatible versioning.
+- **Pragmatic Applied AI:** Integrating Large Language Models with strict cost controls, full audit trails, token budget boundaries, and deterministic fallbacks where reliability outweighs the hype.
+---
+## 💻 Tech Stack & Tooling
+```
+Backend & APIs:  Next.js (Node.js), TypeScript, Python, REST APIs, OpenAPI
+Databases & ORM: PostgreSQL, Prisma ORM, Database Isolation, Billing Operations
+Infrastructure:  Docker, Queue Systems, Webhook Replay Machinery, Git
+```
+---
+## 📂 Featured Work
+### 🌐 Public Open Source Surface
+#### 🔹 [OnboardPulse](https://github.com/SavioCodes/OnboardPulse)
+* **Description:** A robust, multi-tenant customer onboarding SaaS platform.
+* **Architecture Highlights:** Rigid tenant isolation, asynchronous background jobs for user follow-up, configurable storage layers, integrated Stripe/Mercado Pago billing flows, and dynamic AI budget limit controls to prevent runaway API costs.
+* **Stack:** `Next.js` • `TypeScript` • `PostgreSQL` • `Prisma`
+#### 🔹 [MailSieve](https://github.com/SavioCodes/MailSieve)
+* **Description:** A lightweight, high-throughput email signup-risk verification API.
+* **Architecture Highlights:** Fully aligned with OpenAPI contract discipline, packaged with pre-configured verification scripts, and designed for instant, zero-friction containerized deployment.
+* **Stack:** `Node.js` • `TypeScript` • `OpenAPI` • `Docker`
+#### 🔹 [rede-neural-do-zero](https://github.com/SavioCodes/rede-neural-do-zero)
+* **Description:** An educational repository containing a neural network built completely from scratch without high-level ML framework abstractions.
+* **Architecture Highlights:** Implemented with fully deterministic evaluation passes, comprehensive test suites, reproducible seed-based outputs, and structured step-by-step logs.
+* **Stack:** `Python` • `NumPy` • `Mathematics-from-scratch`
+#### 🔹 [saviofilho.dev](https://github.com/SavioCodes/saviofilho.dev)
+* **Description:** A clean, editorial portfolio codebase backing my personal site.
+* **Architecture Highlights:** Bilingual page delivery, SEO-optimized layout structures, and seamless integration between technical case studies, writings, and GitHub metadata.
+* **Stack:** `Next.js` • `React` • `TailwindCSS`
+---
+### 🔒 Selected Private Case Studies
+*(Deep dives available on my portfolio)*
+* 🛡️ **`VOWGRID` — Agentic Trust Layer**  
+  A robust guardrail framework around AI agent operations. Implements dry-run simulations, real-time security policy evaluation, operator approval checks, cryptographic execution receipts, and comprehensive rollback states.
+* 🔍 **`AcessoQR` — Structured Auditing Platform**  
+  A workflow-oriented application for physical accessibility inspections. Features weighted evidentiary capture, multi-stage moderation pipelines, and physical QR-backed public compliance certificates.
+* 📊 **`ORCEI` — Mobile-First Quoting Engine**  
+  An operational quote builder featuring instant public share links, native WhatsApp delivery channels, and contextual AI assistants designed to assist operators inside standard, real-world business flows.
+---
+## 🎯 Current R&D Focus
+* **`QuoteFlow BR`:** Micro-infrastructure designed for WhatsApp-centric quote generation. Features versioned proposals, programmatic PDF compilation, sequential approval gates, and tamper-proof audit trails.
+* **`AcessoQR Public Core`:** QR-based access operations tailored for low-connectivity environments. Focusing on offline validation algorithms, double-scan prevention, and resilient mobile field synchronizations.
+---
+## 📝 Recent Field Reports & Writing
+I write about real-world engineering constraints, systems design, and operating software in production.
+* 🛡️ **AI Guardrails:** [Simulation before execution](https://saviocodes.github.io/saviofilho.dev/writing/simulation-before-execution/)  
+  *Why LLM agents need sandbox dry-runs and explicit policy boundaries before they execute actions.*
+* 🔄 **SaaS Operations:** [Billing webhooks need replay discipline](https://saviocodes.github.io/saviofilho.dev/writing/billing-webhooks-need-replay-discipline/)  
+  *Handling Stripe and billing webhooks idempotently, managing failures, and creating resilient replay machinery.*
+* 📐 **Backend Systems:** [Contracts beat clever APIs](https://saviocodes.github.io/saviofilho.dev/writing/contracts-beat-clever-apis/)  
+  *Why rigid schema validation, predictable error structures, and OpenAPI contracts win over clever code tricks.*
+* 📚 *Explore all field reports on the [writing index](https://saviocodes.github.io/saviofilho.dev/writing/).*
+---
+## ⚖️ Engineering Creed (How I Work)
+* **Explainability Under Friction:** I design systems that remain easy to diagnose when things break under real-world constraints (limited budgets, auth failures, third-party network timeouts, or deployment friction).
+* **Operational Writing:** I value comprehensive documentation of trade-offs, failure paths, runbooks, and installation setups. The codebase should remain clear long after the initial launch.
+* **Production over Demos:** I prioritize deterministic, well-bounded software behavior over hyper-engineered but fragile features. Demos should match their production reliability.
+---
+## 📫 Let's Connect
+- **LinkedIn:** [in/savio-filho-7a0212309](https://www.linkedin.com/in/savio-filho-7a0212309/)
+- **GitHub:** [@SavioCodes](https://github.com/SavioCodes)
+- **Email:** [codessavio@gmail.com](mailto:codessavio@gmail.com)
