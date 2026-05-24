@@ -1,54 +1,84 @@
 # Savio Filho
 
-Software engineer specializing in backend product systems, operational SaaS, and applied AI. Focused on architectural boundaries, reliable execution, and production-grade discipline.
+I'm a software engineer building backend systems, operational SaaS, and applied AI. I focus on creating predictable, production-grade applications with explicit boundaries and rigorous contracts.
 
-[saviofilho.dev](https://saviocodes.github.io/saviofilho.dev/) · [github.com/SavioCodes](https://github.com/SavioCodes) · [linkedin](https://www.linkedin.com/in/savio-filho-7a0212309) · [codessavio@gmail.com](mailto:codessavio@gmail.com)
-
----
-
-### Bio
-I design and build backend systems that remain explainable and resilient under real-world constraints—such as network timeouts, rate limits, billing failures, and non-deterministic LLM outputs. My approach favors strong schema contracts, idempotent operations, and thorough runbook documentation over hype-driven engineering.
-
-Based in Brazil. Available for remote or local contracts.
+[Website](https://saviocodes.github.io/saviofilho.dev/) · [GitHub](https://github.com/SavioCodes) · [LinkedIn](https://www.linkedin.com/in/savio-filho-7a0212309) · [codessavio@gmail.com](mailto:codessavio@gmail.com)
 
 ---
 
-### Public Projects
+### Focus & Core Philosophy
 
-*   **[OnboardPulse](https://github.com/SavioCodes/OnboardPulse)** — Multi-tenant customer onboarding platform featuring schema isolation, queue-based scheduling, integrated payment flows, and programmatic AI budget controls.
-*   **[MailSieve](https://github.com/SavioCodes/MailSieve)** — Lightweight email risk validation API designed with contract-first OpenAPI discipline.
-*   **[rede-neural-do-zero](https://github.com/SavioCodes/rede-neural-do-zero)** — Educational implementation of a neural network from scratch using raw NumPy matrix math for deterministic execution.
+I design systems that remain explainable under production constraints: auth boundaries, queue-backed workflows, and rate limits. Rather than following industry hype, I write structured documentation, choose strong API contracts (OpenAPI), and ensure AI operations have deterministic fallbacks and cost boundaries.
 
-### Case Studies
-*Technical deep-dives on private systems available at [saviofilho.dev/work](https://saviocodes.github.io/saviofilho.dev/work/).*
+*   **Bilingual Handoff:** I operate primarily in English for code, documentation, and technical discussions. I am based in Brazil and open to local and remote contracts.
+
+---
+
+### Featured Projects (Ready to Run)
+
+#### 🔹 [OnboardPulse](https://github.com/SavioCodes/OnboardPulse)
+Multi-tenant customer onboarding SaaS featuring schema isolation, queue jobs, and payment flows.
+*   **Stack:** Next.js, PostgreSQL, Prisma, Stripe / Mercado Pago.
+*   **Local Setup:**
+    ```bash
+    git clone https://github.com/SavioCodes/OnboardPulse.git
+    cd OnboardPulse
+    npm install
+    # Copy .env.example, configure DATABASE_URL, and run migrations
+    npx prisma migrate dev
+    npm run dev
+    ```
+
+#### 🔹 [MailSieve](https://github.com/SavioCodes/MailSieve)
+Lightweight, signup-risk API with OpenAPI validation schema.
+*   **Stack:** Node.js, TypeScript, OpenAPI, Docker.
+*   **Verification:**
+    ```bash
+    git clone https://github.com/SavioCodes/MailSieve.git
+    cd MailSieve
+    npm install
+    npm run test
+    ```
+
+#### 🔹 [rede-neural-do-zero](https://github.com/SavioCodes/rede-neural-do-zero)
+Educational feedforward neural network built from scratch (no high-level ML libraries).
+*   **Stack:** Python, NumPy.
+*   **Run Verification:**
+    ```bash
+    git clone https://github.com/SavioCodes/rede-neural-do-zero.git
+    cd rede-neural-do-zero
+    python -m unittest discover tests/
+    ```
+
+### Systems Architecture (Private Case Studies)
+*Detailed technical reports and workflows are published at [saviofilho.dev/work](https://saviocodes.github.io/saviofilho.dev/work/).*
 
 *   **`VOWGRID`** — Trust and guardrail layer for LLM agents utilizing policy dry-runs, authorization gates, and rollback systems.
 *   **`AcessoQR`** — Mobile auditing platform with weighted scoring, content moderation, and physical QR certification.
-*   **`ORCEI`** — Mobile quotation builder with native WhatsApp delivery and inline business AI assistants.
+*   **`ORCEI`** — Mobile quote builder with native WhatsApp delivery and inline business AI assistants.
 
 ---
 
-### Technology Focus
+### Core Stack & Rationale
 
-I work primarily with **TypeScript/Node.js**, **Next.js**, **Python**, and **SQL**.
-
-*   **Backend & APIs:** REST APIs, OpenAPI, API Versioning, Route Handlers.
-*   **Databases & Queues:** PostgreSQL, Prisma ORM, Redis, Transaction Isolation.
-*   **Operations & Infrastructure:** Docker, GitHub Actions, Idempotent Webhook Replay.
+*   **TypeScript & Node.js:** For unified type safety from API contracts down to the database client.
+*   **PostgreSQL & Prisma:** To enforce relational integrity and strict database isolation boundaries for multi-tenant SaaS.
+*   **Docker:** To guarantee containerized runtime consistency across local development and production.
+*   **Python:** For deterministic mathematical evaluations, scripting, and AI integrations.
 
 ---
 
-### Writing & Field Reports
-I write about systems design, billing infrastructure, and AI guardrails.
+### Technical Writing
 
+I write about real-world software constraints and systems design.
 *   [Simulation before execution](https://saviocodes.github.io/saviofilho.dev/writing/simulation-before-execution/) — Building sandboxes for LLM agents.
 *   [Billing webhooks need replay discipline](https://saviocodes.github.io/saviofilho.dev/writing/billing-webhooks-need-replay-discipline/) — Resilient Stripe webhook handlers.
 *   [Contracts beat clever APIs](https://saviocodes.github.io/saviofilho.dev/writing/contracts-beat-clever-apis/) — Choosing schema validation over brittle code tricks.
 
 ---
 
-### Core Principles
+### How I Work
 
-1.  **Explainability Over Cleverness:** If a system fails in production at 3 AM, it should be simple to debug. I write code that is easy to reason about and trace.
-2.  **Operational Handoff:** Code is only half the job. Complete systems require migration scripts, trade-off documentations (ADRs), and clear disaster recovery procedures.
-3.  **Production over Demos:** I prioritize well-tested, bounded behaviors over complex features that cannot survive real-world edge cases.
+*   **Explainability Over Cleverness:** If a system fails in production at 3 AM, it should be simple to debug. I write code that is easy to reason about and trace.
+*   **Operational Handoff:** Code is only half the job. Complete systems require migration scripts, trade-off documentations (ADRs), and clear disaster recovery procedures.
+*   **Production over Demos:** I prioritize well-tested, bounded behaviors over complex features that cannot survive real-world edge cases.
